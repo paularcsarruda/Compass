@@ -1,8 +1,8 @@
 ## Quem sou eu 
 
-Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia. Estou em transição de carreira, após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. 
+Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. Estou em transição de carreira, após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia.
 
-Tive oportunidade de viver experiências enriquecedoras no exterior por duas vezes. Em 2015, no *Canadá*, em um intercâmbio para estudar inglês e em *Portugal*, entre os anos de 2017 e 2019. Vivências que considero *transformadoras*. 
+Tive oportunidade de viver experiências enriquecedoras no exterior por duas vezes. A primeira em 2015, no _**Canadá**_ e a segunda se estendeu ao longo dos anos de 2017 a 2020, em_**Portugal**_. Ambas foram períodos marcados por _vivências únicas_ e _significativas_, que considero profundamente _transformadoras_.
 
 Uma das minhas grandes paixões é *viajar*, conhecer novos lugares, culturas e pessoas. Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por desafios. Sou apaixonada por *fotografia*, sendo um dos meu hobbies preferidos, além da *leitura* e da minha *corrida* diária.
 
