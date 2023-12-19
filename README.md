@@ -1,20 +1,22 @@
 ## Quem sou eu 
 
-Olá, me chamo **Paula Roberta Arruda**, tenho 36 anos e sou natural de Recife/PE. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP, modalidade EAD. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia, embora tenha experiências de trabalho anteriores na área de Direito (minha primeira formação). Estou em transição de carreira após mais de 10 anos de atuação. Cresci junto com a tecnologia, acompanhei suas mudanças, e sempre fui fascinada por ela.
+Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia.Estou em transição de carreira após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. Cresci acompanhando as mudanças no cenário tecnológico.
 
-Tive oportunidade de morar no exterior por duas vezes (*Canadá e Portugal*), uma experiência que considero *transformadora*. 
+Tive oportunidade experimentar experiências enriquecedoras no exterior duas vezes. Morei no *Canadá* em 2015, para estudar inglês e em  *Portugal*, entre os anos de 2017 e 2019, vivências que considero *transformadora*. 
 
 Uma das minhas grandes paixões é *viajar*, conhecer novos países, culturas e pessoas. Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por desafios. Sou apaixonada por *fotografia*, sendo um dos meu hobbies preferidos, além da *leitura* e da minha *corridinha* diária.
+
+Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em fazer desta transição uma experiência gratificante e bem-sucedida. Minha jornada está apenas começando, e estou ansiosa para explorar os desafios e conquistas que o futuro reserva.
 
 ## O que estou estudando
 
 ### Sprint 1
 
-- Linux.
+- **Linux para Desenvolvedores.**
 
-No curso sobre **Linux** aprendemos a instalar uma **Virtual Machine** e os principais comandos do Ubuntu.
+No curso sobre **Linux** aprendemos a instalar uma **Virtual Machine** e o **Ubuntu** e a utilizar o terminal de forma avançada.
 
-- Git & GitHub.
+- **Git & GitHub**.
 
 No curso sobre **Git e GitHub**, fomos apresentados ao versionamento de código, e como iremos trabalhar com o **Git** e o **GitHub** no nosso dia a dia na empresa. Aprendemos:
 - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
