@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/rennanprysthon/rennanprysthon/raw/master/images/gifdino.gif)
 
-# Quem sou eu 
+# Quem eu sou ...
 
 Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. Estou em transição de carreira, após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia.
 
@@ -10,7 +10,8 @@ Uma das minhas grandes paixões é *viajar*, conhecer novos lugares, culturas e 
 
 Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em fazer desta transição uma experiência gratificante e bem-sucedida. Minha jornada está apenas começando, e estou ansiosa para explorar os desafios e conquistas que o futuro reserva.
 
-# O que estou estudando
+
+# O que estou estudando...
 
 ## Sprint 1
 
