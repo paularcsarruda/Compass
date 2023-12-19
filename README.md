@@ -1,10 +1,10 @@
 ## Quem sou eu 
 
-Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia.Estou em transição de carreira após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. Cresci acompanhando as mudanças no cenário tecnológico.
+Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia. Estou em transição de carreira, após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. 
 
-Tive oportunidade experimentar experiências enriquecedoras no exterior duas vezes. Morei no *Canadá* em 2015, para estudar inglês e em  *Portugal*, entre os anos de 2017 e 2019, vivências que considero *transformadora*. 
+Tive oportunidade de viver experiências enriquecedoras no exterior por duas vezes. Em 2015, no *Canadá*, em um intercâmbio para estudar inglês e em *Portugal*, entre os anos de 2017 e 2019. Vivências que considero *transformadoras*. 
 
-Uma das minhas grandes paixões é *viajar*, conhecer novos países, culturas e pessoas. Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por desafios. Sou apaixonada por *fotografia*, sendo um dos meu hobbies preferidos, além da *leitura* e da minha *corridinha* diária.
+Uma das minhas grandes paixões é *viajar*, conhecer novos lugares, culturas e pessoas. Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por desafios. Sou apaixonada por *fotografia*, sendo um dos meu hobbies preferidos, além da *leitura* e da minha *corrida* diária.
 
 Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em fazer desta transição uma experiência gratificante e bem-sucedida. Minha jornada está apenas começando, e estou ansiosa para explorar os desafios e conquistas que o futuro reserva.
 
