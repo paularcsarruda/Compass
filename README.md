@@ -19,7 +19,8 @@ Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em
 
     - Instalação de uma **Virtual Machine**;
     - Instalação do **Ubuntu**;
-    - Utilização do **terminal** de forma avançada.
+    - Utilização do **terminal** de forma avançada;
+    - LAMP.
 
 - **Git & GitHub**.
 
