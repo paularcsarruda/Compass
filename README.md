@@ -2,7 +2,7 @@
 
 # Quem eu sou ... 👩🏻‍💻
 
-Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP na modalidade EAD. Estou em transição de carreira, após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia.
+Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP, modalidade EAD. Estou em transição de carreira após mais de 10 anos de atuação na área jurídica. No entanto, a paixão pela tecnologia sempre esteve presente em minha vida. A **Compass UOL** é a minha primeira experiência de estágio na área de tecnologia.
 
 Tive oportunidade de viver experiências enriquecedoras no exterior por duas vezes. A primeira em 2015, no _**Canadá**_ e a segunda se estendeu ao longo dos anos de 2017 a 2020, em _**Portugal**_. Ambas foram períodos marcados por _vivências únicas_ e _significativas_, que considero profundamente _transformadoras_.
 
@@ -26,3 +26,9 @@ Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em
     - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
     - Comandos avançados como **git tag e git diff**;
     - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
+ 
+<!-- Contact -->
+# Onde você pode me encontrar...
+ <div> 
+  <a href="https://www.linkedin.com/in/paula-arruda-903656280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
