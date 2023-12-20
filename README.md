@@ -6,9 +6,9 @@ Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por
 
 Tive oportunidade de viver experiências enriquecedoras no exterior por duas vezes. A primeira em 2015, no _**Canadá**_ e a segunda se estendeu ao longo dos anos de 2017 a 2020, em _**Portugal**_. Ambas foram períodos marcados por _vivências únicas_ e _significativas_, que considero profundamente _transformadoras_.
 
-Uma das minhas grandes paixões é *viajar*, conhecer novos lugares, culturas e pessoas. Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por desafios. Sou apaixonada por *fotografia*, sendo um dos meu hobbies preferidos, além da *leitura* e da minha *corrida* diária.
+Um dos meus grandes prazeres na vida é *viajar*, conhecer novos lugares, culturas e pessoas. Sou apaixonada por *fotografia*, *livros*, *vídeo games* e *café*, não necessáriamente nesta ordem 🙈.
 
-Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em fazer desta transição uma experiência gratificante e bem-sucedida. Minha jornada está apenas começando, e estou ansiosa para explorar os desafios e conquistas que o futuro reserva.
+Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por desafios. Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em fazer desta transição uma experiência gratificante e bem-sucedida. Minha jornada está apenas começando, e estou ansiosa para explorar os desafios e conquistas que o futuro reserva.
 
 
 # O que estou estudando...
