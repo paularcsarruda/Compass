@@ -18,11 +18,11 @@ Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em
 - **Linux para Desenvolvedores.**
 
 - Instalação de uma **Virtual Machine**;
-- Instalação do **Ubuntu**;
-- Utilização do **terminal** de forma avançada.
+    - Instalação do **Ubuntu**;
+    - Utilização do **terminal** de forma avançada.
 
 - **Git & GitHub**.
 
-- Comandos básicos do Git, como **git clone, git add, git commit e git push**;
-- Comandos avançados como **git tag e git diff**;
-- Compreendemos o fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
+    - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
+    - Comandos avançados como **git tag e git diff**;
+    - Compreendemos o fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
