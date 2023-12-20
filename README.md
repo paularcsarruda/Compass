@@ -17,7 +17,7 @@ Estou empolgada com as possibilidades que a tecnologia oferece e comprometida em
 
 - **Linux para Desenvolvedores.**
 
-- Instalação de uma **Virtual Machine**;
+    - Instalação de uma **Virtual Machine**;
     - Instalação do **Ubuntu**;
     - Utilização do **terminal** de forma avançada.
 
