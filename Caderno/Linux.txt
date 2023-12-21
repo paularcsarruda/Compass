@@ -1,43 +1,48 @@
-- `clear` → limpa o terminal
+**PRINCIPAIS COMANDOS DO TERMINAL DO LINUX**
 
-**COMAND CD**
+**COMANDO CD**
 
-`cd` → change directory
+cd -> modifica o **diretório**
 
-`cd ..` → return directory one per time
+cd .. -> retorna um **diretório** por vez
 
-`cd ../../..` → you can return many as you want
+cd ../../..
 
-`cd ~`→ users home
+cd ~ -> _home_ do usuário
 
-`cd etc && ls`
+cd etc && ls 
 
 **COMAND LS**
 
-`ls` → show list of files
+ls -> mostra a lista de **files**
 
-`ls -l` → show files details
+ls -l -> mostra o detalhe dos **files**
 
-`ls -a` → show hide files
+ls -a -> mostra os **files** ocultos
 
-`ls -la`
+ls -la
 
-`ls -lh` → show file’s  size, format and readable
+ls -lh -> mostra as específicações dos **files** 
 
-`ls -lS` - order files by size
+ls -lS -> ordena os **files** pelo tamanho
 
-`ls -m` → show directories separated by comma
+ls -m -> mostra os **diretórios** existentes na máquina separados por vírgula
 
 **COMAND CAT**
 
-`cat` → show what is write on files
+cat -> mostra o que está escrito no **file**
 
-`cat` <filename>
+cat <filename>
 
-cat `filenamee` `filename`> `filenameee` → create a file `filenameee` with the content of `filename and filenamee`
+cat <filenamee> <filename> <filenameee> -> cria um <filenameee> com o conteúdo dos outros dois
 
-cat -n `filename`→ show the number of lines
+cat -n <filename> -> mostra o número de linhas do documento
 
-cat -e `filename`→ put a $ at the line end
+cat -e <filename> -> coloca o sínal de **$** put a $ no final de cada linha escrita no documento
 
-cat `filename`> `filenamee` → turn the`filename` in `filenamee`
+cat <filename> <filenamee> -> cria uma cópia do primeiro arquivo
+
+
+**COMANDOS EXTRAS**
+
+- clear -> limpa o terminal
