@@ -1,6 +1,6 @@
 **COMANDOS INICIAIS DO GIT**
 
-** PARA CLONAR OU INICIAR UM REPOSITÓRIO GIT**
+**PARA CLONAR OU INICIAR UM REPOSITÓRIO GIT**
 
 git init -> inicia um novo repositório **git**
 
