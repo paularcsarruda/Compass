@@ -43,7 +43,7 @@ git stash <nome>
 
 git stash show -p <0>
 
-git stash clear` -> limpa totalmente as **stash** de uma **branch**
+git stash clear -> limpa totalmente as **stash** de uma **branch**
 
 git stash drop <nome> -> deletar uma **stash** específica
 
