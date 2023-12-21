@@ -35,7 +35,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
   </div>
   
 <!-- Contact -->
-# Onde você pode me encontrar...
+## Onde você pode me encontrar...
  <div> 
   <a href="https://www.linkedin.com/in/paula-arruda-903656280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
