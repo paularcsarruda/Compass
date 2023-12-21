@@ -1,0 +1,43 @@
+- `clear` → limpa o terminal
+
+**COMAND CD**
+
+`cd` → change directory
+
+`cd ..` → return directory one per time
+
+`cd ../../..` → you can return many as you want
+
+`cd ~`→ users home
+
+`cd etc && ls`
+
+**COMAND LS**
+
+`ls` → show list of files
+
+`ls -l` → show files details
+
+`ls -a` → show hide files
+
+`ls -la`
+
+`ls -lh` → show file’s  size, format and readable
+
+`ls -lS` - order files by size
+
+`ls -m` → show directories separated by comma
+
+**COMAND CAT**
+
+`cat` → show what is write on files
+
+`cat` <filename>
+
+cat `filenamee` `filename`> `filenameee` → create a file `filenameee` with the content of `filename and filenamee`
+
+cat -n `filename`→ show the number of lines
+
+cat -e `filename`→ put a $ at the line end
+
+cat `filename`> `filenamee` → turn the`filename` in `filenamee`

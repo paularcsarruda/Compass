@@ -1,0 +1,81 @@
+**COMANDOS INICIAIS**
+
+**CLONANDO REPOSITORIO**
+
+`git init` - start a repository `git`
+
+`git status`
+
+`git clone` <url>
+
+**ATUALIZAR ARQUIVO**
+
+`git status`
+
+`git commit -m` <mensagem>
+
+`git commit -a -m` <mensagem> → comando que substitui o add .
+
+**PUSH TO GITHUB**
+
+`git add .`
+
+`git commit -m` <mensagem>
+
+`git commit -a -m` <mensagem> → comando que substitui o add .
+
+`git push origin` <branchname>
+
+`git push origin main`
+
+**TRANSFERIR PARA A MAQUINA**
+
+`git pull origin main`
+
+**RESOLVER CONFLITOS**
+
+`git merge`
+
+**CRIAR UM STASH**
+
+//salvar um código em outro arquivo, sem alterar a branch
+
+`git stash`
+
+`git stash list` → verificar lista de stash
+
+`git stash apply <0>`
+
+`git stash <nome>`
+
+`git stash show -p <0>`
+
+`git stash clear` → limpa totalmente as stash de uma branch
+
+`git stash drop <nome>`→ deletar uma stash específica
+
+**CRIAR UMA TAG**
+
+`git tag -a <nomedatag> -m "<msg>”`→ cria uma tag na branch
+
+**COMANDOS EXTRAS**
+
+`git branch` → mostra as branchs do repository
+
+`git checkout`
+
+`git checkout -b` <branchname> → create new branch and checkout
+
+`git cherry-pick` → copiar commits
+
+`git squash` -> reune commits
+
+`git log` -> Historico de Commits
+
+`git reset` -> Voltar uma modificação
+
+`git reset —hard` <commit>
+
+`git reset —hard origin/master`
+
+`git ignore` → ignora files e pastas
