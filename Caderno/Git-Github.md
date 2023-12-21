@@ -3,11 +3,11 @@
 
 **PARA CLONAR OU INICIAR UM REPOSITÓRIO GIT**
 
-git init -> inicia um novo repositório **git**
-
-git status -> verifica o *status* do repositório atual
-
-git clone <url> -> clona o repositório criado no **GITHUB**
+  - git init -> inicia um novo repositório **git**.
+  
+  - git status -> verifica o *status* do repositório atual.
+  
+  - git clone <url> -> clona o repositório criado no **GITHUB**.
 
 
 **PARA ATUALIZAR UM REPOSITÓRIO JÁ EXISTENTE**
