@@ -31,7 +31,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 <!-- Anotações -->
  ## Você pode encontrar as minhas anotações em..
  <div> 
-  <a href="(https://github.com/paularcsarruda/Compass/tree/main/Caderno)" target="_blank"><img align="center" alt="Notebbok" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a> 
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img align="center" alt="Notebbok" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a> 
   </div>
   
 <!-- Contact -->
