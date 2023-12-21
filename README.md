@@ -27,7 +27,13 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
     - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
     - Comandos avançados como **git tag e git diff**;
     - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
- 
+
+<!-- Anotações -->
+ ## Você pode encontrar as minhas anotações em..
+ <div> 
+  <a href="[https://github.com/paularcsarruda/Teste/blob/main/Notebook](https://github.com/paularcsarruda/Compass/tree/main/Caderno)" target="_blank"><img align="center" alt="Notebbok" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a> 
+  </div>
+  
 <!-- Contact -->
 # Onde você pode me encontrar...
  <div> 
