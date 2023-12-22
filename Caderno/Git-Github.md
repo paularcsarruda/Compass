@@ -7,20 +7,20 @@
   
   - git status -> verifica o *status* do repositório atual.
   
-  - git clone <url> -> clona o repositório criado no **GITHUB**.
+  - git clone url -> clona o repositório criado no **GITHUB**.
 
 
 **PARA ATUALIZAR UM REPOSITÓRIO JÁ EXISTENTE**
 
   - git add . .
   
-  - git commit -m <mensagem>.
+  - git commit -m mensagem.
   
-  - git commit -a -m <mensagem> -> comando que substitui o **add .** .
+  - git commit -a -m mensagem -> comando que substitui o **add .** .
   
   - git push.
   
-  - git push origin <branchname>.
+  - git push origin branchname.
   
   - git push origin main.
 
@@ -42,18 +42,18 @@ o **stash** salva um código em outro arquivo, sem alterar a **branch**
 
 - git stash apply <0>.
 
-- git stash <nome>.
+- git stash nome.
 
 - git stash show -p <0>.
 
 - git stash clear -> limpa totalmente as **stash** de uma **branch** .
 
-- git stash drop <nome> -> deletar uma **stash** específica.
+- git stash drop nome -> deletar uma **stash** específica.
 
 
 **PARA CRIAR UMA TAG**
 
- - git tag -a <nomedatag> -m "<msg>” -> cria uma _tag_ na **branch** .
+ - git tag -a nomedatag -m "msg” -> cria uma _tag_ na **branch** .
 
 
 **COMANDOS EXTRAS**
@@ -62,7 +62,7 @@ o **stash** salva um código em outro arquivo, sem alterar a **branch**
   
  - git checkout.
   
- - git checkout -b <branchname> -> cria uma nova **branch** e faz o **checkout** .
+ - git checkout -b branchname -> cria uma nova **branch** e faz o **checkout** .
   
  - git cherry-pick -> copiar **commits** .
   
@@ -72,7 +72,7 @@ o **stash** salva um código em outro arquivo, sem alterar a **branch**
   
  - git reset -> voltar uma modificação por vez.
   
- - git reset —hard <commit>.
+ - git reset —hard commit.
   
  - git reset —hard origin/master.
   
