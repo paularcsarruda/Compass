@@ -12,7 +12,7 @@
   
  - cd etc && ls 
 
-**COMAND LS**
+**COMANDO LS**
 
   - ls -> mostra a lista de **files**
   
@@ -28,7 +28,28 @@
   
  - ls -m -> mostra os **diretórios** existentes na máquina separados por vírgula
 
-**COMAND CAT**
+**COMANDO HEAD**
+
+ - head <filename> -> mostra o início do documento
+
+**COMANDO TAIL**
+
+ - tail <filename> -> mostra o final do documento
+
+**COMANDO FIND**
+
+encontra diretórios ou arquivos
+
+ - find -nome <filename>
+
+**COMANDO LOCATE**
+
+encontra diretórios ou arquivos em uma base de dados salva no sistema operacional
+
+ - locate <filename>
+
+
+**COMANDO CAT**
 
  - cat -> mostra o que está escrito no **file**
   
