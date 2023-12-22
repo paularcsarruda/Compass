@@ -30,38 +30,38 @@
 
 **COMANDO HEAD**
 
- - head file name -> mostra o início do documento
+ - head filename -> mostra o início do documento
 
 **COMANDO TAIL**
 
- - tail file name -> mostra o final do documento
+ - tail filename -> mostra o final do documento
 
 **COMANDO FIND**
 
 encontra diretórios ou arquivos
 
- - find -nome file name
+ - find -nome filename
 
 **COMANDO LOCATE**
 
 encontra diretórios ou arquivos em uma base de dados salva no sistema operacional
 
- - locate file name
+ - locate filename
 
 
 **COMANDO CAT**
 
  - cat -> mostra o que está escrito no **file**
   
- - cat file name
+ - cat filename
   
- - cat file namee file name file nameee -> cria um file nameee com o conteúdo dos outros dois
+ - cat filename2 filename filename3 -> cria um filename3 com o conteúdo dos outros dois
   
- - cat -n file name -> mostra o número de linhas do documento
+ - cat -n filename -> mostra o número de linhas do documento
   
- - cat -e file name -> coloca o sínal de **$** put a $ no final de cada linha escrita no documento
+ - cat -e filename -> coloca o sínal de **$** put a $ no final de cada linha escrita no documento
   
- - cat file name file namee -> cria uma cópia do primeiro arquivo
+ - cat filename filename2 -> cria uma cópia do primeiro arquivo
 
 
 **COMANDOS EXTRAS**
