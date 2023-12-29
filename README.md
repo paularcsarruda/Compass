@@ -32,13 +32,13 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 
 - **SQL para Análise de Dados**
 
-    - Usar a linguagem SQL para consultar banco de dados;
-    - Comandos ANSI-SQL:
+    - Usar a **linguagem SQL** para consultar banco de dados;
+    - Comandos **ANSI-SQL**:
     - PostegreSQL.
 
 - **Big Data**.
 
-    - Fundamentos do Big Data;
+    - Fundamentos do **Big Data**;
     - Sistemas de Armazenamentos de Dados;
     - MLOps e DataOps;
     - DaaS;
