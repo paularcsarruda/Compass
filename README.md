@@ -28,6 +28,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
     - Comandos avançados como **git tag e git diff**;
     - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
 
+<<<<<<< HEAD
 ## Sprint 2
 
 - **SQL para Análise de Dados**
@@ -44,8 +45,16 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
     - DaaS;
     - ETL - Extração, Transformação e Carga de Dados
  
+=======
+<!-- Anotações -->
+ ## Você pode encontrar as minhas anotações em..
+ <div> 
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency-systems-regular/48/readme.png" alt="readme"/> 
+  </div>
+  
+>>>>>>> 38ab3cea0c47392bba79199e7e9104a75f6e5326
 <!-- Contact -->
-# Onde você pode me encontrar...
+## Onde você pode me encontrar...
  <div> 
   <a href="https://www.linkedin.com/in/paula-arruda-903656280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
