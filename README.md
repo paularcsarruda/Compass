@@ -15,7 +15,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 
 ## Sprint 1
 
-- **Linux para Desenvolvedores.**
+- **Linux para Desenvolvedores**
 
     - Instalação de uma **Virtual Machine**;
     - Instalação do **Ubuntu**;
@@ -27,6 +27,22 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
     - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
     - Comandos avançados como **git tag e git diff**;
     - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
+
+## Sprint 2
+
+- **SQL para Análise de Dados**
+
+    - Usar a linguagem SQL para consultar banco de dados;
+    - Comandos ANSI-SQL:
+    - PostegreSQL.
+
+- **Big Data**.
+
+    - Fundamentos do Big Data;
+    - Sistemas de Armazenamentos de Dados;
+    - MLOps e DataOps;
+    - DaaS;
+    - ETL - Extração, Transformação e Carga de Dados
  
 <!-- Contact -->
 # Onde você pode me encontrar...
