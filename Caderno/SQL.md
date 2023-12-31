@@ -1,5 +1,5 @@
 
-# COMANDO SELECT
+## COMANDO SELECT
 
 -- (exemplo 1) Seleção de uma coluna de uma tabela
 - Liste os e-mails dos clientes da tabela sales.customers
@@ -19,7 +19,7 @@ from sales.customers
 select * 
 from sales.customers
 
-# COMANDO DISTINCT
+## COMANDO DISTINCT
 
 -- serve para remover linhas duplicadas e mostrar linhas distintas
 -- muito utilizado na etapa de exploração dos dados
@@ -46,7 +46,7 @@ from sales.products
 select distinct brand, model_year
 from sales.products
 
-# COMANDO WHERE 
+## COMANDO WHERE 
 
 -- serve para filtrar as linhas de uma tebla de acordo com uma condição
 -- (exemplo 1) Filtro com condição única
@@ -76,7 +76,7 @@ where (state = 'SC' or state = 'MS’) and birth_date < ‘1993–12-29’
 select distinct birth_date
 from sales.customers
 
-# COMANDO ORDER BY
+## COMANDO ORDER BY
 
 -- serve para ordenar a seleção de acordo com uma regra definida pelo usuário
 — sintaxe 
@@ -100,7 +100,7 @@ Select distinct state
 From sales.customers
 Order by state
 
-# COMANDO LIMIT
+## COMANDO LIMIT
 
 -- serve para limitar o número de linhas da consulta
 — sintaxe 
@@ -126,7 +126,7 @@ From sales.product
 Order by price desc
 Limit 10
 
-# OPERADORES ARITIMÉTICOS
+## OPERADORES ARITIMÉTICOS
 
 —servem para executar operações matemáticas
 
@@ -167,7 +167,7 @@ Select
 	first_name || ’ ’ || last_name as full_name
 From sales.customers
 
-# OPERADORES COMPARAÇÃO
+## OPERADORES COMPARAÇÃO
 
 — servem para compar dosi valores retornando **TRUE e FALSE**
 — muito utilizado em conjunto com a função WHERE para filtrar linhas de uma seleção
