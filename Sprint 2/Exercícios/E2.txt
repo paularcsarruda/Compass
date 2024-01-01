@@ -1,4 +1,4 @@
-Select titulo, valor
-From livro
-Order by valor desc
-Limit 10
+select titulo, valor
+from livro
+order by valor desc
+limit 10
