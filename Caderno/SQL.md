@@ -164,7 +164,7 @@ Limit 10
 -- Crie uma coluna “nome_completo” contendo o nome completo do cliente
 
 Select 
-	first_name || ’ ’ || last_name as full_name
+first_name || ’ ’ || last_name as full_name
 From sales.customers
 
 ## OPERADORES COMPARAÇÃO
@@ -172,11 +172,11 @@ From sales.customers
 — servem para compar dosi valores retornando **TRUE e FALSE**
 — muito utilizado em conjunto com a função WHERE para filtrar linhas de uma seleção
 
-— tipos
-= igual
-> maior
-< menor 
-<= menor igual
->= maior igual
-<> diferente 
+- — tipos
+- = igual
+- > maior
+- < menor 
+- <= menor igual
+- >= maior igual
+- <> diferente 
 
