@@ -1,3 +1,8 @@
+E3
+Apresente a query para listar as 5 editoras com mais livros na biblioteca. O resultado deve conter apenas as colunas quantidade, nome, estado e cidade. Ordenar as linhas pela coluna que representa a quantidade de livros em ordem decrescente.
+
+Resposta:
+
 select count(editora.nome) as quantidade, editora.nome, endereco.estado as estado, endereco.cidade as cidade
 from editora
 inner join livro on editora.codeditora = livro.editora
