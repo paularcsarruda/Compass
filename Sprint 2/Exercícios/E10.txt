@@ -5,4 +5,12 @@ As colunas presentes no resultado devem ser vendedor, valor_total_vendas e comis
 
 Resposta:
 
-
+select
+    tbvendedor.nmvdd as vendedor,
+    round(sum(tbvendas.qtd * tbvendas.vrunt)) as valor_total_vendas,
+    round(sum(tbvendas.qtd * tbvendas.vrunt * tbvendedor.perccomissao)/100, 2) as comissao
+from tbvendas
+inner join tbvendedor on tbvendas.cdvdd = tbvendedor.cdvdd
+where tbvendas.status = 'Concluído'
+group by tbvendedor.nmvdd, tbvendedor.perccomissao
+order by comissao desc
