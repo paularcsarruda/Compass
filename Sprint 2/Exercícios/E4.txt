@@ -1,1 +1,5 @@
-
+select autor.nome, livro.autor as codautor, autor.nascimento as nascimento, count(livro.autor) as quantidade
+from livro
+inner join autor on autor.codautor = livro.autor
+group by livro.autor, autor.nome, autor.nascimento
+order by autor.nome
