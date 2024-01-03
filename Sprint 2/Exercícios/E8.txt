@@ -4,3 +4,9 @@ As colunas presentes no resultado devem ser, portanto, cdvdd e nmvdd.
 
 Resposta:
 
+select tbvendedor.cdvdd, tbvendedor.nmvdd
+from tbvendedor
+inner join tbvendas on tbvendedor.cdvdd = tbvendas.cdvdd
+group by tbvendedor.cdvdd, tbvendedor.nmvdd
+order by count(*) desc
+limit 1;
