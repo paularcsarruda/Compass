@@ -3,4 +3,10 @@ Apresente a query para listar o nome dos autores que publicaram livros através 
 
 Resposta:
 
-
+select distinct autor.nome
+from autor
+left join livro on livro.autor = autor.codautor 
+left join editora on editora.codeditora = livro.editora
+left join endereco on endereco.codendereco = editora.endereco
+where endereco.estado not in ('RIO GRANDE DO SUL', 'PARANA', 'SANTA CATARINA')
+order by autor.nome
