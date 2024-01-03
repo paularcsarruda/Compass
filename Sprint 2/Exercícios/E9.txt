@@ -4,4 +4,10 @@ As colunas presentes no resultado devem ser cdpro e nmpro.
 
 Resposta:
 
-
+select tbestoqueproduto.cdpro, tbvendas.nmpro
+from tbestoqueproduto
+inner join tbvendas on tbestoqueproduto.cdpro = tbvendas.cdpro
+where tbvendas.dtven between '2014-02-03' and '2018-02-02'
+group by tbestoqueproduto.cdpro, tbvendas.nmpro
+order by count(*) desc
+limit 1
