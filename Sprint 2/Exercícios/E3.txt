@@ -1,1 +1,5 @@
-
+select count(editora.nome) as quantidade, editora.nome, endereco.estado as estado, endereco.cidade as cidade
+from editora
+inner join livro on editora.codeditora = livro.editora
+inner join endereco on editora.endereco = endereco.codendereco
+group by editora.nome
