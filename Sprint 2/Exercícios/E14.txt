@@ -7,13 +7,13 @@ Observação: Apenas vendas com status concluído.
 
 Resposta:
 
-select 
-    estado, 
-    round(sum(tbvendas.qtd * tbvendas.vrunt) / count(estado), 2) as gastomedio
-from 
-    tbvendas
-where
-    status = 'Concluído'
+select
+    estado,
+    round(sum(qtd * vrunt) / count(*), 2) as gastomedio
+
+from tbvendas
+where status = 'Concluído'
 group by
     estado
-order by gastomedio desc
+order by
+    gastomedio desc;
