@@ -1,4 +1,4 @@
-# SQL PARA ANÁLISE DE DADOS
+# SQL para Análise de Dados
 
 ## COMANDO SELECT
 
