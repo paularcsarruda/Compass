@@ -172,11 +172,11 @@ From sales.customers
 — servem para compar dosi valores retornando **TRUE e FALSE**
 — muito utilizado em conjunto com a função WHERE para filtrar linhas de uma seleção
 
-- — tipos
-- = igual
-- > maior
-- < menor 
-- <= menor igual
-- >= maior igual
-- <> diferente 
+
+- igual (=)
+- maior (>)
+- menor (<) 
+- menor igual (<=)
+- maior igual (>=)
+- diferente (<>)
 
