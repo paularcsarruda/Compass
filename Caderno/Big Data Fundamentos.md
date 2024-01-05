@@ -129,15 +129,11 @@ A computação em nuvem **é a disponibilidade sob demanda dos recursos de comp
 - Machine Learning
 - Deep Learning
 
-![download (1).png](Big%20Data%20Fundamentos%203%200%20-%20DSA%20e1e85233538c4ebb8d6f30a79c8925ff/download_(1).png)
-
 ### Pipeline de Machine Learning
 
 um pipeline de machine learning é **dividir uma tarefa completa de machine learning em um fluxo de trabalho de várias etapas**.
 
 Cada etapa é um componente gerenciável que pode ser desenvolvido, otimizado, configurado e automatizado individualmente. As etapas são conectadas por meio de interfaces bem definidas.
-
-![0_r9JJnDGxvc2hXKgq.png](Big%20Data%20Fundamentos%203%200%20-%20DSA%20e1e85233538c4ebb8d6f30a79c8925ff/0_r9JJnDGxvc2hXKgq.png)
 
 ### O que é MLOps?
 
@@ -152,10 +148,6 @@ Com MLOps as empresas podem resolver, ou pelo menos amenizar, os problemas acima
 - Lacunas de comunicação entre as equipes técnicas e de negócios que não possuem uma linguagem comum.
 - Avaliação de risco - há muito debate em torno da natureza da caixa preta de sistemas de Machine Learning.
 
-### Big Data | Small Data
-
-![What-are-the-three-differences-between-Big-Data-and-Small-Data.webp](Big%20Data%20Fundamentos%203%200%20-%20DSA%20e1e85233538c4ebb8d6f30a79c8925ff/What-are-the-three-differences-between-Big-Data-and-Small-Data.webp)
-
 ## Data as a Service (DaaS)
 
 DaaS é uma estratégia de gerenciamento de dados, que visa alavancar os dados como um ativo de negócios para maior agilidade no processo de análise. **Hoje os dados são um ativo de negócios, permitindo criar modelos preditivos, extrair padrões e anomalias.**
@@ -163,8 +155,6 @@ DaaS é uma estratégia de gerenciamento de dados, que visa alavancar os dados c
 O DaaS fornece uma maneira de gerenciar as grandes quantidades de dados que as organizações geram todos os dias e fornecer essas informações para a tomada de decisões baseada em dados.
 
 ### Arquitetura DaaS
-
-![daas-data-as-a-service-diagram.svg](Big%20Data%20Fundamentos%203%200%20-%20DSA%20e1e85233538c4ebb8d6f30a79c8925ff/daas-data-as-a-service-diagram.svg)
 
 A **arquitetura DaaS** se concentra no provisionamento de dados de uma variedade de fontes sob demanda por meio do uso de APIs. Foi projetada para *simplificar o acesso aos dados, podendo incluir uma variedade de tecnologias de gerenciamento de dados*:
 
