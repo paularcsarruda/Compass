@@ -1,1 +1,1 @@
-**Coletânea de Exeercícios e Desafios da Sprint 3**
+**Coletânea de Exercícios e Desafios da Sprint 3**
