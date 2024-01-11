@@ -44,6 +44,16 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
     - DaaS;
     - ETL - Extração, Transformação e Carga de Dados
  
+## Sprint 3
+
+- **Python**
+
+    - Instalação do Python3
+    - Fundamentos do Python
+    - Estrutura de Controle
+    - Funções
+    - POO
+ 
 <!-- Anotações -->
  ## Você pode encontrar as minhas anotações em..
  <div> 
