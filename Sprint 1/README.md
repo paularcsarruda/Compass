@@ -1,4 +1,20 @@
-# Coletânea de Tarefas e Exercícios da Sprint 1.
+![compass](https://vetores.org/d/compass-uol.svg)
+
+# Data & Analytics - PB - AWS 1/10
+
+> Olá, monitor(a)👋🏼! 
+> 
+> Neste arquivo você vai encontrar as entregas e as referências dos conteúdos estudados nas últimas duas semanas.
+> 
+> Qualquer dúvida fico à disposição. 
+> 
+> 👩🏻‍💻
+
+### Objetivos da Sprint 1
+>
+> - Aprender do básico até o intermediário de Git e GitHub.
+> - Markdown
+>
 
 ## Tecnologias utilizadas na Sprint
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
