@@ -2,7 +2,7 @@
 
 # Data & Analytics - PB - AWS 1/10
 
-> Olá, monitor(a)👋🏼! 
+> Olá 👋🏼! 
 > 
 > Neste arquivo você vai encontrar a coletânia de entregas e as referências dos conteúdos estudados nas últimas duas semanas.
 > 
