@@ -91,7 +91,9 @@ Você precisará desta biblioteca antes de executar o código:
 ```
 pip install pandas
 ```
-Aqui está um exemplo básico de ETL em Python:
+
+Um exemplo básico de ETL em Python utilizando o Pandas:
+
 ```
 import pandas as pd
 import sqlite3
