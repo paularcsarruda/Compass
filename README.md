@@ -2,11 +2,12 @@
 
 # Data & Analytics - PB - AWS
 
-Repositório dedicado a trilha de formação - AWS, CompassUOL.
+Repositório dedicado a trilha de formação - AWS CompassUOL.
 
-Início: 12/2023
 
-Término: 06/2024
+**Início**: 12/2023
+
+**Término**: 06/2024
 
 # Quem eu sou ... 👩🏻‍💻
 
