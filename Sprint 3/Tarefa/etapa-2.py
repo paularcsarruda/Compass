@@ -9,11 +9,11 @@ def extrair_valor(line):
 
 
 with open('actors.csv') as file:
-    data = file.read().replace('"Robert Downey, Jr."', "Robert Downey Jr.").split('\n')
+    dados = file.read().replace('"Robert Downey, Jr."', "Robert Downey Jr.").split('\n')
 
     gross_values = []
 
-    for line in data[1:]:
+    for line in dados[1:]:
         value = extrair_valor(line)
 
         if value is not None:
