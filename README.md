@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/rennanprysthon/rennanprysthon/raw/master/images/gifdino.gif)
 
-# Compass UOL | Trilha AWS Cloud
+# Data & Analytics - PB - AWS
 
 Repositório dedicado a trilha de formação - AWS, CompassUOL.
 
