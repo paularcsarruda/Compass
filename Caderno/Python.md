@@ -5,7 +5,7 @@
 Por causa de sua simplicidade e praticidade, Python popularizou-se entre os desenvolvedores das mais diversas áreas. 
 Python é uma linguagem de programação imperativa, interpretada, de alto nível e com tipagem forte e dinâmica. 
 
-### Funções
+## Funções
 
 A sintaxe de uma função é definida por três partes: nome, parâmetros e corpo, o qual agrupa uma sequência de linhas que representa algum comportamento.
 
