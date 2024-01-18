@@ -17,7 +17,8 @@
 >
 ### Entregas da Sprint
 >
-> - Exercícios 1 e 2
+> - Criação do README.md
+> - Relatórios
 >
 ## Tecnologias utilizadas na Sprint
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
