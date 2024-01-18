@@ -2,7 +2,7 @@
 
 # Compass UOL | Trilha AWS Cloud
 
-Repositório dedicado ao programa de captação de talentos da Compass UOL, trilha de AWS Data Cloud.
+Repositório dedicado a trilha de formação - AWS, CompassUOL.
 
 Início: 12/2023
 
