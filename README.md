@@ -1,7 +1,5 @@
 ![Alt Text](https://github.com/rennanprysthon/rennanprysthon/raw/master/images/gifdino.gif)
 
-![compass](https://vetores.org/d/compass-uol.svg)
-
 # Compass UOL | Trilha AWS Cloud
 
 Repositório dedicado ao programa de captação de talentos da Compass UOL, trilha de AWS Data Cloud.
