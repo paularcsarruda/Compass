@@ -2,13 +2,13 @@
 
 # Data & Analytics - PB - AWS 3/10
 
-> Olá, monitor(a)! 
+> Olá, monitor(a)👋🏼! 
 > 
 > Neste arquivo você vai encontrar as entregas e as referências dos conteúdos estudados nas últimas duas semanas.
 > 
 > Qualquer dúvida fico à disposição. 
 > 
-> 👋🏼👩🏻‍💻
+> 👩🏻‍💻
 
 ### Objetivos da Sprint 3
 >
