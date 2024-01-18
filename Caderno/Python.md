@@ -18,7 +18,7 @@ conforme o código a seguir.
 
 ```
 hello('Paula')
-Olá, Paula!
+>> Olá, Paula!
 ```
 
 ## POO
