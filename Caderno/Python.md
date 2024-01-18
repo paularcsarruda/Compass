@@ -155,9 +155,7 @@ print(df_transformado)
 print("\nDados Carregados do Banco de Dados:")
 print(df_carregado)
 ```
-Extração: Os dados originais são representados em um DataFrame do pandas.
-Transformação: Uma simples transformação é aplicada (incremento de 1 na idade).
-Carregamento: Os dados transformados são carregados em um banco de dados SQLite.
+
 
 
 
