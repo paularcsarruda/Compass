@@ -61,6 +61,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
     - Estrutura de Controle
     - Funções
     - POO
+    - ETL
  
 <!-- Anotações -->
  ## Você pode encontrar as minhas anotações em..
