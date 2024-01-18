@@ -21,6 +21,32 @@ hello('Paula')
 >> Olá, Paula!
 ```
 
+## Listas e Dicionários
+
+Uma lista é uma sequência de valores de dados chama **itens** ou **elementos**. A estrutura lógica de uma lista lembra a estrutura de uma string. Cada item da lista é ordenado por posição(indíce) iniciando sempre no [0] e finalizando no comprimento da lista [-1].
+
+```
+anos = [1919, 1940, 2020, 1975]
+```
+
+### Métodos da Lista
+
+```
+L = [a, e, i, o, u]
+```
+```
+umaLista = [c, d, f, g]
+```
+
+L.append(b) -> adciona a letra b ao final de L.
+L.extend(umaListta) -> adciona os elementos de umaLista ao final de L.
+L.insert(ídice, 12) -> insere 12 em índice se índice for menor que o comprimento de L. Caso contrário, insere elemento no final de L.
+L.pop() -> remove e retorna o elemento no final de L.
+L.pop(indice) -> remove e retorna o elemento em indice.
+
+
+
+
 ## POO
 
 A Programação Orientada a Objetos (POO) é ​​um paradigma de programação baseado no conceito de Classes e Objetos.
