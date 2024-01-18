@@ -39,6 +39,48 @@ As **Classes** são tipos de dados definidos pelo desenvolvedor que atuam como u
 
 Os **Atributos** são definidos na **Classe** e representam o estado de um **objeto**. Os objetos terão dados armazenados nos campos de atributos. 
 
-### Classes e Herança
+### Polimorfismo
+
+Quando utilizamos Herança, teremos Classes filhas utilizando código comum da Classe acima, ou Classe pai. Ou seja, as Classes vão compartilhar atributos e comportamentos (herdados da Classe).
+
+Assim, Objetos de Classes diferentes, terão métodos e atributos compartilhados que podem ter implementações diferentes, ou seja, um método pode possuir várias formas e atributos podem adquirir valores diferentes.
+
+Daí o nome: **Poli (muitas) morfismo (formas)**.
+
+Por exemplo uma entidade Carro que herda de Automóvel.
+
+```
+class Automovel:
+    def __init__(self, marca, modelo):
+        self.marca = marca
+        self.modelo = modelo
+
+    def ligar(self):
+        print("O automóvel está ligado.")
+
+    def desligar(self):
+        print("O automóvel está desligado.")
+
+class Carro(Automovel):
+    def __init__(self, marca, modelo, cor):
+        # Chamando o construtor da classe pai (Automovel)
+        super().__init__(marca, modelo)
+        self.cor = cor
+
+    def acelerar(self):
+        print("O carro está acelerando.")
+
+    def frear(self):
+        print("O carro está freando.")
+
+# Exemplo de uso
+meu_carro = Carro(marca="Toyota", modelo="Corolla", cor="Prata")
+print(f"Marca: {meu_carro.marca}, Modelo: {meu_carro.modelo}, Cor: {meu_carro.cor}")
+
+meu_carro.ligar()
+meu_carro.acelerar()
+meu_carro.frear()
+meu_carro.desligar()
+```
 
 ### ETL
