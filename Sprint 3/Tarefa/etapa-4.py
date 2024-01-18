@@ -9,7 +9,7 @@ for linha in linhas[1:]:
 
     num_filmes[filme] = num_filmes.get(filme, 0) + 1
 
-num_filmes_sorted = sorted(num_filmes.items(), key=lambda x: (x[1], x[0]), reverse=True)
+num_filmes_sorted = sorted(num_filmes.items(), key=lambda x: (-x[1], x[0]))
 
 with open('etapa-4.txt', 'w', encoding='utf-8') as file:
     sequencia = 1
