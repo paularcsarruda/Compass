@@ -83,4 +83,54 @@ meu_carro.frear()
 meu_carro.desligar()
 ```
 
-### ETL
+## ETL com Python
+
+ETL (Extract, Transform, Load) é um processo utilizado para transferir dados de uma fonte para um destino, realizando transformações no caminho. Python oferece várias ferramentas e bibliotecas para facilitar o desenvolvimento de pipelines ETL eficientes. Vou apresentar um exemplo básico usando a biblioteca pandas para manipulação de dados e a sqlite3 para armazenamento em um banco de dados SQLite. 
+
+Você precisará desta biblioteca antes de executar o código:
+```
+pip install pandas
+```
+Aqui está um exemplo básico de ETL em Python:
+```
+import pandas as pd
+import sqlite3
+
+# Extração de dados (pode ser substituído por outras fontes, como CSV, APIs, etc.)
+dados_originais = {
+    'Nome': ['Alice', 'Bob', 'Charlie'],
+    'Idade': [25, 30, 22],
+    'Cidade': ['A', 'B', 'C']
+}
+
+df_origem = pd.DataFrame(dados_originais)
+
+# Transformação de dados
+df_transformado = df_origem.copy()
+df_transformado['Idade'] = df_transformado['Idade'] + 1
+
+# Carregamento de dados (SQLite neste exemplo)
+con = sqlite3.connect('dados.db')
+df_transformado.to_sql('dados_clientes', con, index=False, if_exists='replace')
+con.close()
+
+# Verificação dos dados no banco de dados
+con = sqlite3.connect('dados.db')
+df_carregado = pd.read_sql_query('SELECT * FROM dados_clientes', con)
+con.close()
+
+print("Dados Originais:")
+print(df_origem)
+
+print("\nDados Transformados:")
+print(df_transformado)
+
+print("\nDados Carregados do Banco de Dados:")
+print(df_carregado)
+```
+Extração: Os dados originais são representados em um DataFrame do pandas.
+Transformação: Uma simples transformação é aplicada (incremento de 1 na idade).
+Carregamento: Os dados transformados são carregados em um banco de dados SQLite.
+
+
+
