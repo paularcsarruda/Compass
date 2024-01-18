@@ -4,7 +4,7 @@
 
 > Olá 👋🏼! 
 > 
-> Neste arquivo você vai encontrar as minhas anotações referentes a todas as Sprints.
+> Neste arquivo você vai encontrar as minhas anotações referente a todas as Sprints.
 > 
 > Qualquer dúvida fico à disposição. 
 > 
