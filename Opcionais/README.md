@@ -12,6 +12,6 @@
 
 ### Objetivos da Sprint 1
 >
-> - Métodos Agéis
+> - Métodos ágeis de A a Z: o curso completo
 > - Segurança em Aplicações Web
 >
