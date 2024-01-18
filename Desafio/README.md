@@ -30,5 +30,6 @@ O desafio final está dividido em 4 entregas, sendo a primeira a ser realizada a
 3. ...
 [Etapa III](etapa-3/entrega.txt)
 
-
+4. ...
+[Etapa IV](etapa-4/entrega.txt)
 
