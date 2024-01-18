@@ -41,7 +41,7 @@ umaLista = [c, d, f, g]
 >
 > - L.append(b) -> adciona a letra b ao final de L.
 > - L.extend(umaListta) -> adciona os elementos de umaLista ao final de L.
-> - L.insert(ídice, 12) -> insere 12 em índice se índice for menor que o comprimento de L. Caso contrário, insere elemento no final de L.
+> - L.insert(ídice, 12) -> insere 12 em índice se índice for menor que o comprimento de L. Caso contrário, insere 12 no final de L.
 > - L.pop() -> remove e retorna o elemento no final de L.
 > - L.pop(indice) -> remove e retorna o elemento em indice.
 >   
