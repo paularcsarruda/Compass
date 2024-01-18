@@ -14,6 +14,11 @@
 >
 > - Conceitos introdutórios sobre armazenamento de dados e Linguagem SQL.
 >
+### Entregas da Sprint
+>
+> - Exercícios Udemy de 1/16
+> - Desafio (Tarefa)
+>
 ## Tecnologias utilizadas na Sprint
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
