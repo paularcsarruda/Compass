@@ -4,7 +4,7 @@
 
 > Olá 👋🏼! 
 > 
-> Neste arquivo você vai encontrar a coletânia de entregas e as referências dos conteúdos estudados nas últimas duas semanas.
+> Neste arquivo você vai encontrar a coletânia de entregas e conteúdos estudados nas últimas duas semanas.
 > 
 > Qualquer dúvida fico à disposição. 
 > 
