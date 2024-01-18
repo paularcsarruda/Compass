@@ -1,4 +1,6 @@
-**PRINCIPAIS COMANDOS DO TERMINAL DO LINUX**
+# Linux
+
+## Principais Comandos do Terminal
 
 **COMANDO CD**
 
