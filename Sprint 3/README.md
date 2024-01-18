@@ -12,7 +12,8 @@
 
 ### Objetivos da Sprint 3
 >
-> - Aprender do básico até o intermediário na Linguagem Python e compreender diversos conceitos utilizados na área de de Data & Analytics.
+> - Aprender do básico até o intermediário na Linguagem Python.
+> - ELT com Python.
 >
 ### Entregas da Sprint
 >
