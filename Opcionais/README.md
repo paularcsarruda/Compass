@@ -10,7 +10,7 @@
 > 
 > 👩🏻‍💻
 
-### Objetivos da Sprint 1
+### Cursos Opcionais Concluídos
 >
 > - Métodos ágeis de A a Z: o curso completo
 > - Segurança em Aplicações Web
