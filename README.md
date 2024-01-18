@@ -6,7 +6,7 @@ Repositório dedicado ao programa de captação de talentos da Compass UOL, tril
 
 Início: 12/2023
 
-Término: 05/2024
+Término: 06/2024
 
 # Quem eu sou ... 👩🏻‍💻
 
