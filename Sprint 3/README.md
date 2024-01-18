@@ -4,7 +4,7 @@
 
 > Olá, monitor(a)👋🏼! 
 > 
-> Neste arquivo você vai encontrar as entregas e as referências dos conteúdos estudados nas últimas duas semanas.
+> Neste arquivo você vai encontrar a coletânia de entregas e as referências dos conteúdos estudados nas últimas duas semanas.
 > 
 > Qualquer dúvida fico à disposição. 
 > 
