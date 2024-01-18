@@ -24,45 +24,45 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 ## Sprint 1
 
 - **Linux para Desenvolvedores**
-
-    - Instalação de uma **Virtual Machine**;
-    - Instalação do **Ubuntu**;
-    - Utilização do **terminal** de forma avançada;
-    - LAMP.
-
+>
+>    - Instalação de uma **Virtual Machine**;
+>   - Instalação do **Ubuntu**;
+>   - Utilização do **terminal** de forma avançada;
+>   - LAMP.
+>
 - **Git & GitHub**.
-
-    - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
-    - Comandos avançados como **git tag e git diff**;
-    - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
-
+>
+>    - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
+>    - Comandos avançados como **git tag e git diff**;
+>    - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
+>
 ## Sprint 2
 
 - **SQL para Análise de Dados**
-
-    - Usar a **linguagem SQL** para consultar banco de dados;
-    - Comandos **ANSI-SQL**:
-    - PostegreSQL.
-
+>
+>    - Usar a **linguagem SQL** para consultar banco de dados;
+>    - Comandos **ANSI-SQL**:
+>    - PostegreSQL.
+>
 - **Big Data**.
-
-    - Fundamentos do **Big Data**;
-    - Sistemas de Armazenamentos de Dados;
-    - MLOps e DataOps;
-    - DaaS;
-    - ETL - Extração, Transformação e Carga de Dados
- 
+>
+>    - Fundamentos do **Big Data**;
+>    - Sistemas de Armazenamentos de Dados;
+>    - MLOps e DataOps;
+>    - DaaS;
+>    - ETL - Extração, Transformação e Carga de Dados
+> 
 ## Sprint 3
 
 - **Python**
-
-    - Instalação do Python3
-    - Fundamentos do Python
-    - Estrutura de Controle
-    - Funções
-    - POO
-    - ETL
- 
+>
+>    - Instalação do Python3
+>    - Fundamentos do Python
+>    - Estrutura de Controle
+>    - Funções
+>    - POO
+>    - ETL com Python
+>
 <!-- Anotações -->
  ## Você pode encontrar as minhas anotações em..
  <div> 
