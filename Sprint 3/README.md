@@ -14,5 +14,11 @@
 >
 > - Aprender do básico até o intermediário na Linguagem Python e compreender diversos conceitos utilizados na área de de Data & Analytics.
 >
-## Tecnologias utilizadas na Sprint
+### Entregas da Sprint
+>
+> - Exercícios Udemy de 1/25
+> - Desafio (Tarefa)
+>
+## Tecnologias utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
