@@ -7,7 +7,6 @@ def extrair_valor(line):
     else:
         return None
 
-
 lista = []
 
 with open('actors.csv', 'r') as arquivo:
@@ -23,8 +22,9 @@ with open('actors.csv', 'r') as arquivo:
     lista = sorted(lista, key=lambda dicionario: dicionario["valor"], reverse=True)
 
     with open('etapa-5.txt', 'w') as txt:
+        txt.write("Lista de atores ordenada pelo faturamento bruto total (em ordem decrescente):\n\n")
         for dicionario in lista:
             txt.write(f'{dicionario["ator"]} - US$ {dicionario["valor"]:.2f}\n')
-
+   
 
             
