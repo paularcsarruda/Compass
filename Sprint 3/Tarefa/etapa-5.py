@@ -10,7 +10,7 @@ def extrair_valor(line):
 
 lista = []
 
-with open('actors.csv') as arquivo:
+with open('actors.csv', 'r') as arquivo:
     dados = arquivo.read().replace('"Robert Downey, Jr."', "Robert Downey Jr.").split('\n')
 
     for linha in dados[1:]:
