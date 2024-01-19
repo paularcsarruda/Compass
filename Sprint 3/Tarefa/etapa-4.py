@@ -11,9 +11,10 @@ for linha in linhas[1:]:
 
 num_filmes_sorted = sorted(num_filmes.items(), key=lambda x: (-x[1], x[0]))
 
-with open('etapa-4.txt', 'w', encoding='utf-8') as file:
+with open('etapa-4.txt', 'w', encoding='utf-8') as txt:
+    txt.write("Lista de filmes e a quatidade de vezes que aparecem no dataset:\n\n")
     sequencia = 1
 
     for filme, num_filmes in num_filmes_sorted:
-        file.write(f'{sequencia} - O filme {filme} aparece {num_filmes} vez(es) no dataset.\n')
+        txt.write(f'{sequencia} - O filme {filme} aparece {num_filmes} vez(es) no dataset.\n')
         sequencia += 1
