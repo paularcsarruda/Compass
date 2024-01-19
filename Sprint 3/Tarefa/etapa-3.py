@@ -4,20 +4,19 @@ with open('actors.csv', 'r') as arquivo:
     with open('etapa-3.txt', 'w') as txt:
         max_fat = float(0)
         lista = []
-        actors = []
+        atores = []
         media = 0
 
         for valores in dados[1:]:
             campo1 = valores.strip().split(',')[3]
             campo2 = valores.strip().split(',')[0]
             lista.append(float(campo1))
-            actors.append(campo2)
+            atores.append(campo2)
 
         for valor in lista:
             if valor >= max_fat:
                 max_fat = valor
-                actor=actors[media]
+                actor=atores[media]
             media += 1
         
         txt.write( f'O(a) ator/atriz com a maior média de receita de bilheteria é {actor} com US${max_fat:.2f}.')
-
