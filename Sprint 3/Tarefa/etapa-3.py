@@ -1,4 +1,4 @@
-with open("actors.csv") as arquivo:
+with open('actors.csv', 'r') as arquivo:
     dados = arquivo.read().replace('"Robert Downey, Jr."',"Robert Downey Jr.").split('\n')
     
     with open('etapa-3.txt', 'w') as txt:
