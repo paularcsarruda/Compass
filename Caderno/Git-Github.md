@@ -79,3 +79,12 @@ o **stash** salva um código em outro arquivo, sem alterar a **branch**
  - git reset —hard origin/master.
   
  - git ignore -> ignora **files** e **pastas** .
+
+## Fluxo de Trabalho Básico
+
+1. `git init`: inicialize um repositório Git em seu projeto (apenas uma vez).
+2. Faça alterações nos arquivos do projeto.
+3. `git add [arquivo]`: adicione os arquivos modificados ao staged area.
+4. `git commit -m "mensagem"`: crie um commit com uma mensagem descritiva para registrar as alterações.
+5. Continue fazendo alterações e criando commits conforme necessário.
+6. `git push`: envie seus commits para um repositório remoto para compartilhar com outras pessoas ou fazer backup.
