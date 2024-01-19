@@ -2,10 +2,10 @@ with open('actors.csv', 'r') as arquivo:
     dados = arquivo.read().replace('"Robert Downey, Jr."',"Robert Downey Jr.").split('\n')
     
     with open('etapa-3.txt', 'w') as txt:
-        x = float(0)
+        media = float(0)
         num = []
         actors = []
-        c = 0
+        max_fat = 0
 
         for valores in dados[1:]:
             campo1 = valores.strip().split(',')[3]
@@ -14,9 +14,10 @@ with open('actors.csv', 'r') as arquivo:
             actors.append(campo2)
 
         for valor in num:
-            if valor >= x:
-                x = valor
-                actor=actors[c]
-            c += 1
+            if valor >= media:
+                media = valor
+                actor=actors[max_fat]
+            max_fat += 1
         
-        txt.write( f'O(a) ator/atriz com a maior média de receita de bilheteria é {actor} com US${x:.2f}.')
+        txt.write( f'O(a) ator/atriz com a maior média de receita de bilheteria é {actor} com US${media:.2f}.')
+
