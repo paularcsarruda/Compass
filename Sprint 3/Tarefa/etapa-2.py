@@ -8,7 +8,7 @@ def extrair_valor(line):
         return None
 
 
-with open('actors.csv') as file:
+with open('actors.csv','r') as file:
     dados = file.read().replace('"Robert Downey, Jr."', "Robert Downey Jr.").split('\n')
 
     gross_values = []
