@@ -21,6 +21,11 @@
 > - Desafio (Tarefa)
 >
 
+### Anotações da Sprint 
+ <div> 
+  <a href="https://github.com/paularcsarruda/Compass/blob/main/Caderno/Python.md" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency-systems-regular/48/readme.png" alt="readme"/> 
+  </div>
+   
 ### Você pode encontrar os meus **Cursos Opcionais** aqui...
  <div> 
   <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
