@@ -17,7 +17,8 @@
 >
 ### Entregas da Sprint
 >
-> - Exercícios Udemy de
+> - Exercícios Udemy
+> - Desafio (Tarefa)
 >
 
 ### Você pode encontrar os meus **Cursos Opcionais** aqui...
