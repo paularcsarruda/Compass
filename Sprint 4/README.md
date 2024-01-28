@@ -12,13 +12,16 @@
 
 ### Objetivos da Sprint 4
 >
-> - Python Fincional.
-> - Dockers.
+> - Programação Funcional
+> - Dockers
+> - Estatística Descritiva
 >
 ### Entregas da Sprint
 >
 > - Exercícios Udemy
 > - Desafio (Tarefa)
+> - Relatórios dos Cursos
+> - Cursos Opcionais (certificados e relatórios)
 >
 
 ### Anotações da Sprint 
@@ -34,3 +37,5 @@
 ## Tecnologias utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
