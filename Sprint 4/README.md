@@ -29,7 +29,7 @@
   <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-developer-web-developer-soft-fill-soft-fill-juicy-fish.png" alt="external-developer-web-developer-soft-fill-soft-fill-juicy-fish"/>
   </div>
    
-### Você pode encontrar os meus **Cursos Opcionais** aqui...
+### Cursos Opcionais
  <div> 
   <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
   </div>
