@@ -31,7 +31,7 @@
    
 ### Cursos Opcionais
  <div> 
-  <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="60" height="60" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
   </div>
     
 ## Tecnologias utilizadas
