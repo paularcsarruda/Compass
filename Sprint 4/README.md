@@ -26,12 +26,12 @@
 
 ### Você pode encontrar minhas anotações no ícone abaixo...
  <div> 
-  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-developer-web-developer-soft-fill-soft-fill-juicy-fish.png" alt="external-developer-web-developer-soft-fill-soft-fill-juicy-fish"/>
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="80" height="80" src="https://github.com/paularcsarruda/Compass/assets/122739036/c133549e-8dc5-46dd-830e-0679abbaebb5" alt="icons8-em-espiral-ligado-livreto-100"/>
   </div>
    
 ### Cursos Opcionais
  <div> 
-  <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="60" height="60" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
   </div>
     
 ## Tecnologias utilizadas
