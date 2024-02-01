@@ -31,9 +31,9 @@
    
 ### Cursos opcionais concluídos até o momento...
  <div> 
-  <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-developer-web-development-flaticons-lineal-color-flat-icons.png" alt="external-developer-web-development-flaticons-lineal-color-flat-icons"/>
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Opcionais" target="_blank"><img width="80" height="80" src="https://github.com/paularcsarruda/Compass/assets/122739036/84babdef-19d1-407b-b21d-07d657c15dc4" alt="icons8-meu-dever-de-casa-100"/>
   </div>
-    
+
 ## Tecnologias utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
