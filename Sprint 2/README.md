@@ -20,7 +20,7 @@
 > - Desafio (Tarefa)
 >
 
-### Anotações da Sprint 
+### Você pode encontrar minhas anotações no ícone abaixo...
  <div> 
   <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-developer-web-developer-soft-fill-soft-fill-juicy-fish.png" alt="external-developer-web-developer-soft-fill-soft-fill-juicy-fish"/>
   </div>
