@@ -99,7 +99,7 @@ sum_of_numbers = reduce(add, numbers)
 print(sum_of_numbers) # 15
 ```
 
-- `zip`:  Ela **permite agrupar elementos de diversas listas em tuplas, criando uma nova lista combinada**. Essa função pode ser aplicada em diferentes situações, desde a manipulação de dados até a criação de algoritmos complexos.
+- `zip`:  Ela permite agrupar elementos de diversas listas em tuplas, criando uma nova lista combinada. Essa função pode ser aplicada em diferentes situações, desde a manipulação de dados até a criação de algoritmos complexos.
 
 ```python
 lista1 = [1, 2, 3]
@@ -116,7 +116,7 @@ for item in lista_combinada:
 # (3, 'c')
 ```
 
-**A função zip em Python oferece flexibilidade e várias possibilidades para manipulação de listas. Aqui estão algumas dicas e truques para otimizar o uso dessa função:**
+A função zip em Python oferece flexibilidade e várias possibilidades para manipulação de listas. Aqui estão algumas dicas e truques para otimizar o uso dessa função:
 
 - **É possível passar mais de duas listas como argumento para a função zip.**
 
