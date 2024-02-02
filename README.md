@@ -9,9 +9,9 @@ Repositório dedicado a trilha de formação - AWS CompassUOL.
 
 **Término**: 06/2024
 
-# Quem eu sou ... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="35" height="35" />
+# Quem eu sou ... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" height="35" />
 
-Olá, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP, modalidade EAD. Estou em transição de carreira após mais de 10 anos de atuação na área jurídica.A paixão pela tecnologia sempre esteve presente em minha vida e a **Compass UOL** é a minha primeira experiência de estágio na área de TI.
+Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, me chamo **Paula Roberta Arruda**, uma recifense de 36 anos apaixonada por tecnologia. Atualmente curso o 3.º período do curso de *Análise e Desenvolvimento de Sistemas* no Senac/SP, modalidade EAD. Estou em transição de carreira após mais de 10 anos de atuação na área jurídica.A paixão pela tecnologia sempre esteve presente em minha vida e a **Compass UOL** é a minha primeira experiência de estágio na área de TI.
 
 Tive oportunidade de viver experiências enriquecedoras no exterior por duas vezes. A primeira em 2015, no _**Canadá**_ e a segunda se estendeu ao longo dos anos de 2017 a 2020, em _**Portugal**_. Ambas foram períodos marcados por _vivências únicas_ e _significativas_, que considero profundamente _transformadoras_.
 
