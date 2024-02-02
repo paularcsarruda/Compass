@@ -70,6 +70,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 >
 >    - Programação Funcional
 >    - Docker
+>    - Kubernetes
 >    - Estatística Descritiva
 >
 
