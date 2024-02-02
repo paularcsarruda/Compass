@@ -14,4 +14,5 @@
 >
 > - Métodos ágeis de A a Z: o curso completo
 > - Segurança em Aplicações Web
+> - Python Funcional
 >
