@@ -12,11 +12,14 @@
 
 ### Objetivos da Sprint 5
 >
-> - AWS
+> - Realização de cursos AWS.
 >
 ### Entregas da Sprint
 >
-> - 
+> - AWS Partner - Sales Accreditation (Business)
+> - AWS Partner - Cloud Economics
+> - AWS Partner - Accreditation (Technical)
+> - Exam Prep: AWS Certified Cloud Practitioner
 >
 
 ### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
@@ -25,7 +28,4 @@
   </div>
 
 ## Tecnologias utilizadas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
