@@ -31,12 +31,14 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 >   - Utilização do **terminal** de forma avançada;
 >   - LAMP.
 >
+
 - **Git & GitHub**.
 >
 >    - Comandos básicos do Git, como **git clone, git add, git commit e git push**;
 >    - Comandos avançados como **git tag e git diff**;
 >    - Fluxo de trabalho básico do Git, incluindo o uso de **branches, merge e rebase**.
 >
+
 ## Sprint 2
 
 - **SQL para Análise de Dados**
@@ -45,6 +47,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 >    - Comandos **ANSI-SQL**:
 >    - PostegreSQL.
 >
+
 - **Big Data**.
 >
 >    - Fundamentos do **Big Data**;
@@ -52,7 +55,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 >    - MLOps e DataOps;
 >    - DaaS;
 >    - ETL - Extração, Transformação e Carga de Dados
-> 
+
 ## Sprint 3
 
 - **Python**
@@ -63,7 +66,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 >    - Funções
 >    - POO
 >    - ETL com Python
->
+
 ## Sprint 4
 
 - **Python e Docker**
@@ -72,7 +75,16 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 >    - Docker
 >    - Kubernetes
 >    - Estatística Descritiva
+
+## Sprint 5
+
+-** AWS
 >
+> - AWS Partner - Sales Accreditation (Business)
+> - AWS Partner - Cloud Economics
+> - AWS Partner - Accreditation (Technical)
+> - Exam Prep: AWS Certified Cloud Practitioner
+>   
 
  ## Você pode encontrar as minhas anotações em..
  <div> 
