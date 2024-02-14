@@ -8,7 +8,7 @@
 > 
 > Qualquer dúvida fico à disposição. 
 > 
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="35" height="35" />
+> 👩🏻‍💻
 
 ### Objetivos da Sprint 1
 >
