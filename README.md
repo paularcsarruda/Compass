@@ -78,7 +78,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 
 ## Sprint 5
 
--**AWS**
+- **AWS**
 >
 > - AWS Partner - Sales Accreditation (Business)
 > - AWS Partner - Cloud Economics
