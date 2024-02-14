@@ -20,6 +20,12 @@
 > - Criação do README.md
 > - Relatórios
 >
+
+### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
+ <div> 
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="80" height="80" src="https://github.com/paularcsarruda/Compass/assets/122739036/c133549e-8dc5-46dd-830e-0679abbaebb5" alt="icons8-em-espiral-ligado-livreto-100"/>
+  </div>
+    
 ## Tecnologias utilizadas na Sprint
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
