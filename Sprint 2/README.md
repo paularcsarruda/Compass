@@ -20,9 +20,9 @@
 > - Desafio (Tarefa)
 >
 
-### Você pode encontrar minhas anotações no ícone abaixo...
+### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
  <div> 
-  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-developer-web-developer-soft-fill-soft-fill-juicy-fish.png" alt="external-developer-web-developer-soft-fill-soft-fill-juicy-fish"/>
+  <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="80" height="80" src="https://github.com/paularcsarruda/Compass/assets/122739036/c133549e-8dc5-46dd-830e-0679abbaebb5" alt="icons8-em-espiral-ligado-livreto-100"/>
   </div>
    
 ## Tecnologias utilizadas na Sprint
