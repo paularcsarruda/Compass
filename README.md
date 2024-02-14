@@ -84,6 +84,7 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 > - AWS Partner - Cloud Economics
 > - AWS Partner - Accreditation (Technical)
 > - Exam Prep: AWS Certified Cloud Practitioner
+> - Cloud Quest - Cloud Practitioner
 >   
 
  ## Você pode encontrar as minhas anotações em..
