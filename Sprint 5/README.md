@@ -4,9 +4,7 @@
 
 > Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />! 
 > 
-> Neste arquivo você vai encontrar a coletânia de entregas e conteúdos estudados nas últimas duas semanas.
-> 
-> Qualquer dúvida fico à disposição. 
+> Neste arquivo você vai encontrar a coletânia de entregas e conteúdos estudados na Sprint 5. 
 > 
 > 👩🏻‍💻
 
