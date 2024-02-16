@@ -12,7 +12,7 @@
 
 ### Objetivos da Sprint 5
 >
-> - Realização de cursos AWS.
+> - Realização de cursos AWS - Skill Builder.
 >
 ### Entregas da Sprint
 >
@@ -20,6 +20,7 @@
 > - AWS Partner - Cloud Economics
 > - AWS Partner - Accreditation (Technical)
 > - Exam Prep: AWS Certified Cloud Practitioner
+> - Cloud Quest - Cloud Practitioner
 >
 
 ### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
