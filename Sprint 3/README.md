@@ -6,7 +6,6 @@
 > 
 > Neste arquivo você vai encontrar as entregas e os conteúdos estudados na Sprint 3. 
 > 
-> Qualquer dúvida fico à disposição. 
 > 
 > 👩🏻‍💻
 
