@@ -11,7 +11,7 @@
 
 ### Objetivos da Sprint 6
 >
-> - Realização de cursos AWS.
+> - Realização de cursos na plataforma AWS - Skill Builder.
 >
 ### Entregas da Sprint
 >
