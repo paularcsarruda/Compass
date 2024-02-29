@@ -87,6 +87,14 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 > - Cloud Quest - Cloud Practitioner
 >   
 
+## Sprint 6
+
+- **AWS**
+>
+> - Laboratórios AWS (Lambda, S3 e Athena)
+> - Cursos AWS - Skill Builder
+>
+
  ## Você pode encontrar as minhas anotações em..
  <div> 
   <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="80" height="80" src="https://github.com/paularcsarruda/Compass/assets/122739036/c133549e-8dc5-46dd-830e-0679abbaebb5" alt="icons8-em-espiral-ligado-livreto-100"/>
