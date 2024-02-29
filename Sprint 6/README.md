@@ -12,10 +12,12 @@
 ### Objetivos da Sprint 6
 >
 > - Realização de cursos na plataforma AWS - Skill Builder.
+> - Laboratórios AWS.
 >
 ### Entregas da Sprint
 >
 #### Cursos AWS:
+>
 > - Why Analytics for Games
 > - Introduction to Amazon Athena
 > - Data Analytics Fundamentals
@@ -30,6 +32,7 @@
 > - Getting Started with Amazon Redshift
 > - Deep Dive into Concepts and Tools for Analyzing Streaming Data
 >
+
 #### Laboratórios:
 >
 > - Lab S3
