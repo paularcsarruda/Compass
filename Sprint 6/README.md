@@ -1,4 +1,5 @@
-![compass](https://vetores.org/d/compass-uol.svg)
+
+![YellowCompass](https://github.com/paularcsarruda/Compass/assets/122739036/c5c51cd7-2364-4f6f-ad06-c6cce95e40b3)
 
 # Data & Analytics - PB - AWS 6/10
 
