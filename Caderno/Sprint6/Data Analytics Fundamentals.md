@@ -1,16 +1,14 @@
-## Volume de Dados
+# Volume de Dados
 
 ## Introdução ao Amazon S3 (Simple Storage Service)
 
 >
-
-- é o melhor lugar para armazenar todos os seus dados semiestruturados e não estruturados.
-- Amazon S3 armazena dados como **objetos** em **buckets**.
-- Em qualquer bucket, você pode adicionar o conteúdo nele de forma ordenada e organizada ou, simplesmente jogar o que quiser de qualquer jeito nele.
-- Um **objeto** é composto por um arquivo e quaisquer metadados que descrevam esse arquivo
-- **Buckets** são contêineres lógicos para objetos. Você pode ter um ou mais buckets em sua conta e controlar o acesso a cada um individualmente
-- ex. sites, data analytics, etc.
-
+> - é o melhor lugar para armazenar todos os seus dados semiestruturados e não estruturados.
+> - Amazon S3 armazena dados como **objetos** em **buckets**.
+> - Em qualquer bucket, você pode adicionar o conteúdo nele de forma ordenada e organizada ou, simplesmente jogar o que quiser de qualquer jeito nele.
+> - Um **objeto** é composto por um arquivo e quaisquer metadados que descrevam esse arquivo
+> - **Buckets** são contêineres lógicos para objetos. Você pode ter um ou mais buckets em sua conta e controlar o acesso a cada um individualmente
+> - ex. sites, data analytics, etc.
 >
 
 Question: 
@@ -35,15 +33,7 @@ As APIs REST são interfaces de programação comumente usadas para interagir co
 
 Um data lake pode utilizar buckets do Amazon S3 e podemos organizar os dados em categorias dentro dele. Não importa como os dados chegaram lá ou de que tipo eles são. Você pode armazenar dados estruturados e não estruturados de maneira eficaz em um data lake no Amazon S3. A AWS oferece um conjunto de ferramentas para gerenciar todo data lake sem tratar de cada bucket como objetos separados e não associados.
 
-- **Um data lake é um 
-repositório centralizado 
-que permite armazenar dados 
-estruturados
-,
- semiestruturados
- e
- não estruturados 
-em qualquer escala.**
+- **Um data lake é um repositório centralizado que permite armazenar dados estruturados, semiestruturados e não estruturados em qualquer escala.**
 
 Muitas empresas acabam agrupando dados em vários locais separados de armazenamento. Chamamos isso de silos. Esses silos raramente são gerenciados e mantidos pela mesma equipe e isso pode ser problemático. As inconsistências na forma como os dados foram escritos, coletados, agregados ou filtrados, podem causar dificuldades quando comparados e combinados na fase de processamento e análise.
 
