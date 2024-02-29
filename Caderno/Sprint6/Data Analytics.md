@@ -6,14 +6,15 @@ O que é Big Data?
 
 ```
 Big data são dados em quantidade tão grande e com crescimento tão rápido que seu armazenamento e gerenciamento tornam-se um desafio.
+```
 
 Características (os quatro V's):
-
-- Volume: escala de tamanho de dados
-- Velocidade: taxa de criação e crescimento dos dados
-- Variedade: variedade de formatos
-- Veracidade: incerteza dos dados
-```
+>
+> - Volume: escala de tamanho de dados
+> - Velocidade: taxa de criação e crescimento dos dados
+> - Variedade: variedade de formatos
+> - Veracidade: incerteza dos dados
+>
 
 Dados como um ativo estratégico e diferencial
 
