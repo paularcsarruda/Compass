@@ -6,7 +6,7 @@
 
 # Data & Analytics - PB - AWS
 
-> Olá 👋🏼! 
+> Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />!  
 > 
 > Neste arquivo você vai encontrar os certificados dos cursos opcionais disponibilizados na Trilha de Formação
 > 
