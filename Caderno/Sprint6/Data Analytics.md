@@ -186,6 +186,7 @@ Dados de transmissão
 Gerados continuamente de milhares de fontes de dados coletados em tempo real. Devem ser processados sequencialmente e incrementalmente ou em janelas de tempo.
 
 Processamento
+
 Requer uma camada de armazenamento:: é compatível com pedidos de registros e consistência forte, e outra de processamento: consome dados, executa cálculos e notifica quando os dados não são mais úteis.
 
 Solução de transmissão de dados da AWS
