@@ -19,57 +19,50 @@ R: Amazon S3
 
 Com o Amazon S3, você pode armazenar de modo econômico todos os tipos de dados em seus respectivos formatos nativos. Em seguida, você pode executar quantos servidores virtuais forem necessários usando o Amazon Elastic Compute Cloud (Amazon EC2) e usar as ferramentas analíticas da AWS para processar seus dados. Você pode otimizar suas instâncias do EC2 para fornecer as proporções corretas de CPU, memória e largura de banda para obter melhor desempenho.
 
-Desacoplar seu processamento e armazenamento oferece muitos benefícios, incluindo a capacidade de processar e analisar os mesmos dados com diversas ferramentas.
+>
+> O Amazon S3 facilita a criação de um ambiente multi-tenant em que muitos usuários podem trazer suas próprias ferramentas de análise de dados para um conjunto comum de
+> dados. Isso melhora o custo e a governança de dados em relação às soluções tradicionais, que exigem que várias cópias de dados sejam distribuídas em múltiplas
+> plataformas de processamento.
+>
+> Embora isso possa exigir uma etapa adicional para carregar seus dados na ferramenta certa, ter o Amazon S3 como seu datastore central oferecerá ainda mais benefícios
+> em relação às opções de armazenamento tradicionais.
 
-O Amazon S3 facilita a criação de um ambiente multi-tenant em que muitos usuários podem trazer suas próprias ferramentas de análise de dados para um conjunto comum de dados. Isso melhora o custo e a governança de dados em relação às soluções tradicionais, que exigem que várias cópias de dados sejam distribuídas em múltiplas plataformas de processamento.
-
-Embora isso possa exigir uma etapa adicional para carregar seus dados na ferramenta certa, ter o Amazon S3 como seu datastore central oferecerá ainda mais benefícios em relação às opções de armazenamento tradicionais.
-
-Combine o Amazon S3 com outros serviços AWS para consultar e processar dados. O Amazon S3 também se integra à computação sem servidor do AWS Lambda para executar código sem provisionar ou gerenciar servidores. O Amazon Athena pode consultar o Amazon S3 diretamente usando a linguagem de consulta estruturada (SQL), sem a necessidade de entrada de dados em um banco de dados relacional.
-
-As APIs REST são interfaces de programação comumente usadas para interagir com arquivos no Amazon S3. As APIs RESTful do Amazon S3 são simples, fáceis de usar e compatíveis com a maioria dos principais provedor independente de software (ISV) terceirizados, incluindo o Apache Hadoop e outros fornecedores de ferramentas analíticas líderes do mercado.
-
-# **introdução a data lakes**
-
-Um data lake pode utilizar buckets do Amazon S3 e podemos organizar os dados em categorias dentro dele. Não importa como os dados chegaram lá ou de que tipo eles são. Você pode armazenar dados estruturados e não estruturados de maneira eficaz em um data lake no Amazon S3. A AWS oferece um conjunto de ferramentas para gerenciar todo data lake sem tratar de cada bucket como objetos separados e não associados.
-
-- **Um data lake é um repositório centralizado que permite armazenar dados estruturados, semiestruturados e não estruturados em qualquer escala.**
+# **Introdução a Data Lakes**
+>
+> Um data lake pode utilizar buckets do Amazon S3 e podemos organizar os dados em categorias dentro dele. Não importa como os dados chegaram lá ou de que tipo eles são.
+> Você pode armazenar dados estruturados e não estruturados de maneira eficaz em um data lake no Amazon S3. A AWS oferece um conjunto de ferramentas para gerenciar todo
+> data lake sem tratar de cada bucket como objetos separados e não associados.
+>
+> - **Um data lake é um repositório centralizado que permite armazenar dados estruturados, semiestruturados e não estruturados em qualquer escala.**
+>
 
 Muitas empresas acabam agrupando dados em vários locais separados de armazenamento. Chamamos isso de silos. Esses silos raramente são gerenciados e mantidos pela mesma equipe e isso pode ser problemático. As inconsistências na forma como os dados foram escritos, coletados, agregados ou filtrados, podem causar dificuldades quando comparados e combinados na fase de processamento e análise.
 
 Mas quando se usa a data lakes, você pode dividir esses silos de dados e trazê-los para um único repositório central gerenciado por uma única equipe, o que irá fornecer uma única e consistente fonte da verdade. Como os dados podem ser armazenados em seu formato bruto, você não precisa convertê-los, agregá-los ou filtrá-los antes de armazenar. Em vez disso, você pode deixar todo esse pré processamento pro sistema que o processa, em vez do sistema que o armazena.
 
-## benefícios dos data lakes
+## Benefícios dos Data Lakes
+>
+> - fonte única de confiança
+> - armazena qualquer tipo de dado, independente da estrutura
+> - pode ser analisado utilizando IA ou ML
+> - São uma solução **de armazenamento de dados econômica**. Você pode armazenar de forma durável uma quantidade quase ilimitada de dados usando o Amazon S3.
+> - Implemente a **segurança e a conformidade** líderes do setor. A AWS usa rigorosos mecanismos de segurança, conformidade, privacidade e proteção de dados.
+> - Permite que você aproveite **muitas ferramentas diferentes de coleta e ingestão** de dados para ingerir dados em seu data lake. Esses serviços incluem o Amazon Kinesis para dados de streaming e dispositivos AWS Snowball para grandes volumes de dados locais.
+> - Ajudam você a **categorizar e gerenciar seus dados** de forma simples e eficiente. Use o AWS Glue para entender os dados dentro do seu data lake, prepará-los e carregá-los de forma confiável em datastores. Depois que o AWS Glue cataloga seus dados, eles são imediatamente pesquisáveis, podem ser consultados e estão disponíveis para processamento de ETL.
+> - Ajuda você a transformar dados em **informações significativas**. Utilize o poder dos serviços analíticos criados para finalidades específicas em vários casos de uso, como avaliação interativa, processamento de dados usando o Apache Spark e o Apache Hadoop, data warehousing, análise em tempo real, análise operacional, painéis e visualizações.
+>
 
-- fonte única de confiança
-- armazena qualquer tipo de dado, independente da estrutura
-- pode ser analisado utilizando IA ou ML
-- São uma solução **de armazenamento de dados econômica**. Você pode armazenar de forma durável uma quantidade quase ilimitada de dados usando o Amazon S3.
-- Implemente a **segurança e a conformidade** líderes do setor. A AWS usa rigorosos mecanismos de segurança, conformidade, privacidade e proteção de dados.
-- Permite que você aproveite **muitas ferramentas diferentes de coleta e ingestão** de dados para ingerir dados em seu data lake. Esses serviços incluem o Amazon Kinesis para dados de streaming e dispositivos AWS Snowball para grandes volumes de dados locais.
-- Ajudam você a **categorizar e gerenciar seus dados** de forma simples e eficiente. Use o AWS Glue para entender os dados dentro do seu data lake, prepará-los e carregá-los de forma confiável em datastores. Depois que o AWS Glue cataloga seus dados, eles são imediatamente pesquisáveis, podem ser consultados e estão disponíveis para processamento de ETL.
-- Ajuda você a transformar dados em **informações significativas**. Utilize o poder dos serviços analíticos criados para finalidades específicas em vários casos de uso, como avaliação interativa, processamento de dados usando o Apache Spark e o Apache Hadoop, data warehousing, análise em tempo real, análise operacional, painéis e visualizações.
+# **Introdução aos Métodos de Armazenamento de Dados**
 
-# **introdução aos métodos de armazenamento de dados**
+### Armazenamento de Dados Estruturados
 
-### Armazenamento de dados estruturados
-
-- Os Data Warehouses, são usados como um sistema central para armazenar dados analíticos de várias fontes
-- Um Data Warehouse é um repositório central de dados estruturados de muitas fontes de dados.
-- Os Data Warehouses on-premises exigem um investimento significativo para planejar, configurar e manter. Para muitas pequenas empresas, isso não é uma opção. No entanto, a AWS fornece um serviço de Data Warehousing chamado de Amazon Redshift.
-- O Amazon Redshift permite configurar e implantar um novo data warehouse em minutos. Ele foi criado para armazenar e consultar conjuntos de dados que variam de gigabytes a petabytes de tamanho.
-- **Um 
-data warehouse
- é
- um 
-repositório central
- de dados estruturados de muitas origens de dados. Esses dados são 
-transformados
-, 
-agregados
- e 
-preparados 
-para relatórios e avaliaçãos de negócios.**
+>
+> - Os Data Warehouses, são usados como um sistema central para armazenar dados analíticos de várias fontes
+> - Um Data Warehouse é um repositório central de dados estruturados de muitas fontes de dados.
+> - Os Data Warehouses on-premises exigem um investimento significativo para planejar, configurar e manter. Para muitas pequenas empresas, isso não é uma opção. No entanto, a AWS fornece um serviço de Data Warehousing chamado de Amazon Redshift.
+> - O Amazon Redshift permite configurar e implantar um novo data warehouse em minutos. Ele foi criado para armazenar e consultar conjuntos de dados que variam de gigabytes a petabytes de tamanho.
+>
+**Um data warehouse é um repositório central de dados estruturados de muitas origens de dados. Esses dados são transformados, agregados e preparados para relatórios e avaliaçãos de negócios.**
 
 # **Apache Hadoop**
 
@@ -103,11 +96,9 @@ O ***processamento de dados*** significa a coleta e a manipulação de dados p
 O processamento de dados é essencial para qualquer sistema de dados. O processamento de dados define os métodos usados para coletar dados e apresentá-los a mecanismos analíticos ou de armazenamento.
 
 Há dois tipos de processamento: em lote ou batch, e o processamento em streaming.
-
 >
-
-- Lote ou batch 🐢: quando há uma grande quantidade de dados para processar e precisa realizar isso em determinados intervalos. Esse tipo de processamento é executado em datasets como: logs de servidor, dados financeiros, relatórios de fraudes e clickstreams
-- Streaming 🐇: significa processar dados em um fluxo contínuo, ou seja, o processamento de dados que são gerados continuamente em pequenos conjuntos de dados, medido em kilobytes. Você usaria o streaming quando precisasse de um feedback em tempo real ou insights contínuos. Esse tipo de processamento é executado em conjuntos de dados como: dados do sensor IoT, compras de comércio eletrônico, atividades de jogadores num jogo, clickstreams ou informações de redes sociais.
+> - Lote ou batch 🐢: quando há uma grande quantidade de dados para processar e precisa realizar isso em determinados intervalos. Esse tipo de processamento é executado em datasets como: logs de servidor, dados financeiros, relatórios de fraudes e clickstreams
+> - Streaming 🐇: significa processar dados em um fluxo contínuo, ou seja, o processamento de dados que são gerados continuamente em pequenos conjuntos de dados, medido em kilobytes. Você usaria o streaming quando precisasse de um feedback em tempo real ou insights contínuos. Esse tipo de processamento é executado em conjuntos de dados como: dados do sensor IoT, compras de comércio eletrônico, atividades de jogadores num jogo, clickstreams ou informações de redes sociais.
 
 Muitas empresas usam os dois tipos de processamento: Streaming e Batch, no mesmo Dataset. O Streaming é usado para obter insights iniciais e feedback em tempo real, enquanto o Batch é usado para obter insights profundos de análises complexas, por exemplo, transações de cartão de crédito.
 
