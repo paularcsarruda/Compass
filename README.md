@@ -7,7 +7,7 @@ Repositório dedicado a trilha de formação - AWS CompassUOL.
 
 **Início**: 12/2023
 
-**Término**: 06/2024
+**Término**: 05/2024
 
 # Quem eu sou ... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" height="35" />
 
