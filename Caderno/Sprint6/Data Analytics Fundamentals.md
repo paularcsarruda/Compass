@@ -33,8 +33,7 @@ Com o Amazon S3, você pode armazenar de modo econômico todos os tipos de dados
 > Você pode armazenar dados estruturados e não estruturados de maneira eficaz em um data lake no Amazon S3. A AWS oferece um conjunto de ferramentas para gerenciar todo
 > data lake sem tratar de cada bucket como objetos separados e não associados.
 >
-> - **Um data lake é um repositório centralizado que permite armazenar dados estruturados, semiestruturados e não estruturados em qualquer escala.**
->
+ **Um data lake é um repositório centralizado que permite armazenar dados estruturados, semiestruturados e não estruturados em qualquer escala.**
 
 Muitas empresas acabam agrupando dados em vários locais separados de armazenamento. Chamamos isso de silos. Esses silos raramente são gerenciados e mantidos pela mesma equipe e isso pode ser problemático. As inconsistências na forma como os dados foram escritos, coletados, agregados ou filtrados, podem causar dificuldades quando comparados e combinados na fase de processamento e análise.
 
@@ -68,7 +67,7 @@ Mas quando se usa a data lakes, você pode dividir esses silos de dados e trazê
 
 O Hadoop usa uma **arquitetura de processamento distribuído**, no qual uma tarefa é mapeada para um cluster de servidores convencionais para processamento. Cada bloco de trabalho distribuído aos servidores do cluster pode ser executado ou re-executado em qualquer um dos servidores. Os servidores do cluster usam frequentemente o **Hadoop Distributed File System (HDFS)** para armazenar dados localmente para processamento. Os resultados da computação realizada pelos servidores são reduzidos a um único conjunto de saída. Um nó, designado como nó principal, controla a distribuição de tarefas e pode lidar automaticamente com falhas dos servidores.
 
-AMAZON EMR
+**AMAZON EMR**
 
 O Amazon EMR é o serviço AWS que implementa frameworks Hadoop. O serviço fará a ingestão dos dados de praticamente qualquer tipo de origem a praticamente qualquer velocidade! O Amazon EMR consegue implementar dois sistemas de arquivos diferentes: HDFS ou Elastic MapReduce File System (EMRFS). Um sistema de arquivos é um conjunto de regras organizacionais que controlam como os arquivos são armazenados.
 
@@ -91,7 +90,7 @@ O ***processamento de dados*** significa a coleta e a manipulação de dados p
 
 # **Tópico 1:**
 
-# **introdução aos métodos de processamento de dados**
+# **Introdução aos Métodos de Processamento de Dados**
 
 O processamento de dados é essencial para qualquer sistema de dados. O processamento de dados define os métodos usados para coletar dados e apresentá-los a mecanismos analíticos ou de armazenamento.
 
@@ -99,6 +98,7 @@ Há dois tipos de processamento: em lote ou batch, e o processamento em streamin
 >
 > - Lote ou batch 🐢: quando há uma grande quantidade de dados para processar e precisa realizar isso em determinados intervalos. Esse tipo de processamento é executado em datasets como: logs de servidor, dados financeiros, relatórios de fraudes e clickstreams
 > - Streaming 🐇: significa processar dados em um fluxo contínuo, ou seja, o processamento de dados que são gerados continuamente em pequenos conjuntos de dados, medido em kilobytes. Você usaria o streaming quando precisasse de um feedback em tempo real ou insights contínuos. Esse tipo de processamento é executado em conjuntos de dados como: dados do sensor IoT, compras de comércio eletrônico, atividades de jogadores num jogo, clickstreams ou informações de redes sociais.
+>
 
 Muitas empresas usam os dois tipos de processamento: Streaming e Batch, no mesmo Dataset. O Streaming é usado para obter insights iniciais e feedback em tempo real, enquanto o Batch é usado para obter insights profundos de análises complexas, por exemplo, transações de cartão de crédito.
 
@@ -115,9 +115,9 @@ A capacidade de um sistema processar dados dependerá muito dos requisitos exigi
 O processamento em batch deve consumir, de maneira rápida e eficiente, uma enorme quantidade de dados de uma só vez. Isso gera desafios que não existem com o processamento em stream.
 
 O processamento de dados em batch oferece às empresas a capacidade de se aprofundarem nos dados coletados para produzir análise complexa que não pode ser obtida apenas usando a análise de streaming.
-
-- O *processamento em batch* é a execução de uma série de programas ou *trabalhos* em um ou mais computadores sem intervenção manual. Os dados são coletados em batches de maneira assíncrona. O batch é enviado a um sistema de processamento quando condições específicas são atendidas, como um horário específico do dia. Os resultados do trabalho de processamento são enviados a um local de armazenamento que pode ser consultado posteriormente, conforme necessário.
-
+>
+> - O *processamento em batch* é a execução de uma série de programas ou *trabalhos* em um ou mais computadores sem intervenção manual. Os dados são coletados em batches de maneira assíncrona. O batch é enviado a um sistema de processamento quando condições específicas são atendidas, como um horário específico do dia. Os resultados do trabalho de processamento são enviados a um local de armazenamento que pode ser consultado posteriormente, conforme necessário.
+>
 **Processamento de dados em batch com o Amazon EMR e o Apache Hadoop**
 
 As organizações que precisam de soluções de big data estão trabalhando com dados em volume e velocidade tão altos que os ambientes tradicionais não conseguem atender às suas necessidades.
@@ -126,7 +126,7 @@ O Amazon EMR é um serviço gerenciado para a implantação de cargas de trabalh
 
 # **Tópico 3:**
 
-# **introdução ao processamento de dados de stream**
+# **Introdução ao Processamento de Dados de Stream**
 
 **O processamento de dados em stream é uma das áreas de processamento que mais cresce. O número de dispositivos coletando informações em tempo real está crescendo rapidamente. Isso impulsiona a necessidade por soluções de processamento que correspondam à velocidade da geração de dados.**
 
@@ -138,12 +138,14 @@ Há vários motivos para usar soluções de dados de streaming. Em um sistema de
 
 um serviço para ingerir o stream constante de dados, outro para processar e analisar o stream, e outro para carregar os dados em um datastore analítico, se necessário. O **Amazon Kinesis** atende a cada uma dessas necessidades e você pode usar cada serviço do Kinesis independentemente para criar uma solução de streaming ideal.
 
-- O Amazon Kinesis Data Firehose é a maneira mais fácil de capturar, transformar e carregar streams de dados em datastores da AWS para análises quase em tempo real usando ferramentas existentes de business intelligence.
-- O Amazon Kinesis Data Streams permite criar aplicativos personalizados e em tempo real para processar streams de dados usando frameworks comuns de processamento de streams.
-- O Amazon Kinesis Video Streams facilita o streaming seguro de vídeos a partir de dispositivos conectados à AWS, onde podem ser usados para análise, machine learning (ML) e outros processamentos.
-- O Amazon Kinesis Data Analytics é a maneira mais fácil de processar streams de dados em tempo real com SQL ou Java sem precisar aprender novas linguagens de programação ou frameworks de processamento.
+>
+> - O Amazon Kinesis Data Firehose é a maneira mais fácil de capturar, transformar e carregar streams de dados em datastores da AWS para análises quase em tempo real usando ferramentas existentes de business intelligence.
+> - O Amazon Kinesis Data Streams permite criar aplicativos personalizados e em tempo real para processar streams de dados usando frameworks comuns de processamento de streams.
+> - O Amazon Kinesis Video Streams facilita o streaming seguro de vídeos a partir de dispositivos conectados à AWS, onde podem ser usados para análise, machine learning (ML) e outros processamentos.
+> - O Amazon Kinesis Data Analytics é a maneira mais fácil de processar streams de dados em tempo real com SQL ou Java sem precisar aprender novas linguagens de programação ou frameworks de processamento.
+>
 
-# **Variedade: estruturas e tipos de dados**
+# **Variedade: Estruturas e Tipos de Dados**
 
 Quando sua empresa fica sobrecarregada pelo grande número de origens dos dados  para analisar e você não consegue encontrar sistemas para fazer a análise, sabe que tem um problema de variedade.
 
@@ -153,53 +155,51 @@ Quando sua empresa fica sobrecarregada pelo grande número de origens dos dado
 
 Vamos falar sobre três tipos de dados: estruturados, semiestruturados e não estruturados.
 
-Dados estruturados 
+**Dados estruturados**
+>
+> - são dados armazenados em formato tabular, muitas vezes em um sistema gerenciador de banco de dados, o RDBMS.
+> - Esses dados são organizados com base em um modelo de dados relacional que define e padroniza os elementos de dados e a relação entre si. Isso é chamado de Schema. Por meio do Schema, o RDBMS tem a capacidade de impor a conformidade.
+> - Dados estruturados são organizados em tabelas, colunas e linhas. Você pode encontrar dados estruturados em um banco de dados transacionais e analíticos. Os bancos de dados transacionais enfrentam operações pesadas de gravação e atualização, enquanto os bancos de dados analíticos enfrentam operações pesadas de leitura.
+> - Exemplos de aplicativos de dados estruturados incluem Amazon RDS, Amazon Aurora, MySQL, MariaDB, PostgreSQL, Microsoft SQL Server e Oracle.
+> - Os dados em bancos de dados relacionais são organizados para que os valores em uma tabela possam ser usados para referenciar dados em outra tabela. Em outras palavras, existe uma relação entre duas tabelas.
+>
 
-- são dados armazenados em formato tabular, muitas vezes em um sistema gerenciador de banco de dados, o RDBMS.
-- Esses dados são organizados com base em um modelo de dados relacional que define e padroniza os elementos de dados e a relação entre si. Isso é chamado de Schema. Por meio do Schema, o RDBMS tem a capacidade de impor a conformidade.
-- Dados estruturados são organizados em tabelas, colunas e linhas. Você pode encontrar dados estruturados em um banco de dados transacionais e analíticos. Os bancos de dados transacionais enfrentam operações pesadas de gravação e atualização, enquanto os bancos de dados analíticos enfrentam operações pesadas de leitura.
-- Exemplos de aplicativos de dados estruturados incluem Amazon RDS, Amazon Aurora, MySQL, MariaDB, PostgreSQL, Microsoft SQL Server e Oracle.
-- Os dados em bancos de dados relacionais são organizados para que os valores em uma tabela possam ser usados para referenciar dados em outra tabela. Em outras palavras, existe uma relação entre duas tabelas.
+**Dados semiestruturado**
+>
+> - Quando dados semiestruturados são armazenados em um banco de dados não relacional, geralmente chamados de NoSQL, eles não impõem um Schema, nem um conjunto específico de regras e constraints nos dados. Quando dados sempre estruturados são armazenados em arquivos, eles são considerados como tendo uma estrutura auto descritiva, o que significa que o próprio arquivo informará como interpretar os dados dentro dele. A vantagem é que isso permite que cada tabela ou arquivo tenha sua própria estrutura ou Schema.
+> - os dados semiestruturados são altamente flexíveis. Cada elemento pode conter atributos diferentes, portanto, ele pode escalar pra atender às demandas dinâmicas de uma empresa muito mais rapidamente do que os dados estruturados. Mas a desvantagem dessa flexibilidade é a perda na capacidade de análise.
+> - Exemplos de datastores semiestruturados são CSV, XML, JSON, Amazon DynamoDB, Amazon Neptune e Amazon ElastiCache.
+>
 
-Dados semiestruturado
-
-- Quando dados semiestruturados são armazenados em um banco de dados não relacional, geralmente chamados de NoSQL, eles não impõem um Schema, nem um conjunto específico de regras e constraints nos dados. Quando dados sempre estruturados são armazenados em arquivos, eles são considerados como tendo uma estrutura auto descritiva, o que significa que o próprio arquivo informará como interpretar os dados dentro dele. A vantagem é que isso permite que cada tabela ou arquivo tenha sua própria estrutura ou Schema.
-- os dados semiestruturados são altamente flexíveis. Cada elemento pode conter atributos diferentes, portanto, ele pode escalar pra atender às demandas dinâmicas de uma empresa muito mais rapidamente do que os dados estruturados. Mas a desvantagem dessa flexibilidade é a perda na capacidade de análise.
-- Exemplos de datastores semiestruturados são CSV, XML, JSON, Amazon DynamoDB, Amazon Neptune e Amazon ElastiCache.
-
-dado não estruturado
-
-- são dados armazenados em arquivos semelhantes a dados semiestruturados. Esses dados não estão em conformidade com o modelo de dados predefinidos e não estão organizados da maneira predefinida. Os dados não estruturados podem ser muito textuais. Os arquivos PDFs, CSV compõem a maior parte desse tipo de fonte de dados. Os arquivos também podem conter um pouco de texto, no caso de imagens e vídeos.
-- Para executar análises significativas em dados não estruturados, você precisa pré-processar os arquivos. Existem algumas maneiras principais de como os arquivos são pré-processados. Você pode usar um serviço para adicionar tags aos dados com base em regras que você define.
-- Exemplos de dados não estruturados incluem e-mails, fotos, vídeos, dados de clickstream, Amazon S3 e Amazon Redshift Spectrum.
-
+**Dados não-estruturados**
+>
+> - são dados armazenados em arquivos semelhantes a dados semiestruturados. Esses dados não estão em conformidade com o modelo de dados predefinidos e não estão organizados da maneira predefinida. Os dados não estruturados podem ser muito textuais. Os arquivos PDFs, CSV compõem a maior parte desse tipo de fonte de dados. Os arquivos também podem conter um pouco de texto, no caso de imagens e vídeos.
+> - Para executar análises significativas em dados não estruturados, você precisa pré-processar os arquivos. Existem algumas maneiras principais de como os arquivos são pré-processados. Você pode usar um serviço para adicionar tags aos dados com base em regras que você define.
+> - Exemplos de dados não estruturados incluem e-mails, fotos, vídeos, dados de clickstream, Amazon S3 e Amazon Redshift Spectrum.
+>
 # **Tópico 2:**
 
-# **introdução a datastores estruturados**
+# **Introdução a Datastores Estruturados**
 
 Os dados estruturados são classificados como dados armazenados em um banco de dados ou em um sistema de gerenciamento de banco de dados (DBMS). Um banco de dados é um conjunto estruturado de dados mantido em um computador, que pode ser acessado de várias maneiras. Um DBMS fornece estrutura aos dados, capacidade de manter os dados durante todo o ciclo de vida e capacidade de gerenciar interações com outros processos e sistemas. Diferentes sistemas de gerenciamento de banco de dados gerenciam a organização de dados de diferentes maneiras para atingir metas específicas, como avaliação complexa, navegação rápida de relacionamentos ou recuperação do estado da sessão.
 
-**Dados de arquivos de texto puro**
+**Dados de AArquivos de Texto Puro**
 
 Em geral, os dados de arquivos de texto puro residem em uma planilha. Pode não parecer um banco de dados, mas ele atende a todos os requisitos básicos. Esse formato fornece uma base sólida para entender algumas das considerações ao escolher um DBMS.
 
-**Bancos de dados relacionais**
+**Bancos de Dados Relacionais**
 
 O armazenamento de arquivos de texto puro pode não atender às suas necessidades de armazenamento de dados estruturados. A próxima etapa lógica é migrar para uma solução mais robusta: um banco de dados relacional.
 
-**Tipos de sistemas de informação**
+**Tipos de Sistemas de Informação**
 
 Há duas maneiras principais, conhecidas como sistemas de informação, de organizar dados em um banco de dados relacional. Os dados podem ser organizados para se concentrar no armazenamento de transações ou no processo de análise de transações.
 
 Os bancos de dados transacionais são chamados de bancos de dados de processamento de transações on-line (OLTP). Os dados coletados pelos bancos de dados OLTP geralmente alimentam outro tipo de banco de dados que se concentra na análise dos dados transacionais. Os bancos de dados de processamento analítico on-line (OLAP) coletam dados de sistemas OLTP com o objetivo de organizá-los para operações analíticas.
 
-**Indexação de dados colunares e baseada em linha**
+**Indexação de Dados Colunares e Baseada em Linha**
 
 Os dados em um banco de dados devem ser indexados para permitir que uma consulta encontre rapidamente os dados necessários para produzir um resultado. Os índices controlam a maneira como os dados são armazenados fisicamente no disco. Eles agrupam fisicamente os registros em uma ordem previsível com base em chaves‑valores dentro da tabela. Isso tem um papel importante na velocidade e na eficiência das consultas.
-
-### OLAP
-
-### OLTP
 
 ## Soluções da AMAZON
 
@@ -241,8 +241,6 @@ Os bancos de dados de Grafo são de uso específico para armazenar qualquer tipo
 
 O serviço de banco de dados de Grafos da AWS se chama Amazon Neptune. O Neptune é um serviço de banco de dados rápido, confiável e totalmente gerenciado, que facilita a criação e a execução de aplicações que trabalham com conjuntos de dados altamente conectados.
 
-Como a Erika disse, bancos de dados de grafos, como Neptune, são bancos de dados de propósitos específicos, pra armazenar relacionamentos e navegar por eles. Esses bancos de dados possuem vantagens em relação aos bancos de dados relacionais. Em casos como: redes sociais, mecanismos de recomendação e detecção de fraudes, onde é necessário criar relacionamentos entre os dados e consultar esses relacionamentos de forma muito rápida.
-
 Quando se trata de armazenar dados semiestruturados e não estruturados, a escolha mais indicada geralmente se trata dos bancos de dados NoSQL.
 
 Os bancos de dados de grafo são criados especificamente para armazenar qualquer tipo de dados: estruturados, semiestruturados ou não estruturados. O objetivo da organização em um banco de dados de grafo é navegar pelas relações. Os dados no banco de dados são consultados usando linguagens específicas associadas à ferramenta de software que você implementou.
@@ -250,18 +248,18 @@ Os bancos de dados de grafo são criados especificamente para armazenar qualquer
 Logicamente, os dados são armazenados como um nó e as bordas armazenam informações sobre as relações entre os nós. Uma borda tem sempre um nó inicial, um nó final, um tipo e um direcionamento, o que possibilita a descrição de relações entre pais e filhos, ações, propriedades e assim por diante. Não há limite para o número e os tipos de relações que um nó pode ter.
 
 **Vantagens:**
-
-- Permitem a recuperação simples e rápida de estruturas hierárquicas complexas;
-- Ótimos para mineração de big data em tempo real;
-- Podem identificar rapidamente pontos de dados comuns entre nós;
-- Ótimos para fazer recomendações relevantes e permitir a consulta rápida dessas relações.
-
+>
+> - Permitem a recuperação simples e rápida de estruturas hierárquicas complexas;
+> - Ótimos para mineração de big data em tempo real;
+> - Podem identificar rapidamente pontos de dados comuns entre nós;
+> - Ótimos para fazer recomendações relevantes e permitir a consulta rápida dessas relações.
+>
 **Desvantagens:**
-
-- Não é possível armazenar adequadamente dados transacionais;
-- Os analistas devem aprender novas linguagens para consultar os dados;
-- A análise nos dados pode não ser tão eficiente quanto com outros tipos de bancos de dados.
-
+>
+> - Não é possível armazenar adequadamente dados transacionais;
+> - Os analistas devem aprender novas linguagens para consultar os dados;
+> - A análise nos dados pode não ser tão eficiente quanto com outros tipos de bancos de dados.
+>
 **Noções básicas sobre relações de grafos**
 
 Imagine que você quisesse examinar um produto ou recomendação social. No gráfico abaixo, observe Bill no canto superior direito. O gráfico mostra que Bill conhece Mary e Amit. Bancos de dados de grafo, como todos os outros, podem armazenar informações sobre várias entidades diferentes. As entidades são chamadas de nós em um banco de dados de grafo. Bill, Mary e Amit representam nós de clientes. Você também pode acompanhar o histórico de compras introduzindo nós de produto. Três clientes compraram esse produto.
@@ -272,11 +270,9 @@ Você pode ir além e acompanhar os interesses dos clientes, como o esporte favo
 
 # Desafio de Negócios
 
-Imagine uma empresa que esteja trabalhando para desenvolver um aplicativo de comércio eletrônico especializado em detecção de fraudes. A empresa precisa de uma solução que possa fornecer detecção quase em tempo real de padrões definidos como suspeitos.
+Q: Imagine uma empresa que esteja trabalhando para desenvolver um aplicativo de comércio eletrônico especializado em detecção de fraudes. A empresa precisa de uma solução que possa fornecer detecção quase em tempo real de padrões definidos como suspeitos.
 
-R: 
-
-O Amazon Neptune é um serviço de banco de dados de grafo rápido, confiável e totalmente gerenciado que facilita a criação e a execução de aplicativos que funcionam com conjuntos de dados altamente conectados.
+R: O Amazon Neptune é um serviço de banco de dados de grafo rápido, confiável e totalmente gerenciado que facilita a criação e a execução de aplicativos que funcionam com conjuntos de dados altamente conectados.
 
 O núcleo do Neptune é um mecanismo de banco de dados de grafo de alto desempenho e criado especificamente para armazenar bilhões de relações e consultar os grafos com latência de milissegundos.
 
