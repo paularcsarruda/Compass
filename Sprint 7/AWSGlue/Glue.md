@@ -1,4 +1,4 @@
->
+<img width="1840" alt="Captura de Tela 2024-03-14 às 4 03 58 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/d89c17a2-bc9e-420c-a0f1-2d40db583eca">>
 >- Ler o arquivo nomes.csv no S3 (lembre-se de realizar upload do arquivo antes).
 
 <img width="1840" alt="Captura de Tela 2024-03-13 às 5 28 45 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/db3c23ef-6d77-487b-b8aa-9fa31a68681f">
@@ -36,3 +36,9 @@
 >  Atenção aos requisitos:
 >  A gravação deve ocorrer no subdiretório frequencia_registro_nomes_eua do paths3://<BUCKET>/lab-glue/ .
 >  O formato deve ser JSON. O particionamento deverá ser realizado pelas colunas sexo e ano (nesta ordem).
+
+ <img width="1840" alt="Captura de Tela 2024-03-14 às 4 05 05 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/cd710806-6bd8-4d7b-8d0c-751b075edf8c">
+ 
+ <img width="1840" alt="Captura de Tela 2024-03-14 às 4 03 58 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/79c3c89b-5cab-4edd-bc88-0051296f2983">
+
+
