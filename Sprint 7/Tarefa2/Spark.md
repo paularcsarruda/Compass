@@ -32,8 +32,9 @@
 
 <img width="1728" alt="Python - contador" src="https://github.com/paularcsarruda/Compass/assets/122739036/97a0a977-c42d-478a-8582-2ec69169f255">
 
+### Resultado
 >
-> - Resultado.
+> Resultado: 580
 >
 
  <img width="1728" alt="Resultado" src="https://github.com/paularcsarruda/Compass/assets/122739036/bd78a02c-66ed-4d9a-a479-8358a1543e48">
