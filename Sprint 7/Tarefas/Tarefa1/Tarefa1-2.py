@@ -4,7 +4,7 @@ Apresente a média da coluna contendo o número de filmes.
 
 import pandas as pd
 # Carregando o arquivo CSV
-df = pd.read_csv('/Users/paulaarruda/Desktop/Compass/Sprint 7/Tarefas/actors.csv')
+df = pd.read_csv('/Users/paulaarruda/Compass/Sprint 7/Tarefas/Tarefa1/actors.csv')
 
 # Removendo aspas e vírgulas do nome do ator/atriz
 df['Actor'] = df['Actor'].str.replace('"', '').str.replace(',', '')
