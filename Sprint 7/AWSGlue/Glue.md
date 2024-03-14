@@ -50,9 +50,14 @@
 <img width="1840" alt="Captura de Tela 2024-03-14 às 4 23 02 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/7df3c6c4-6524-4421-bba6-b1b17b1a923e">
 
 >
-> Pesquisa realizada no AWS Athen
+> Pesquisa realizada no AWS Athena
 >
 
 <img width="1840" alt="Captura de Tela 2024-03-14 às 4 28 36 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/2967151e-3a7f-492d-876d-b93733589c2d">
 
 <img width="1840" alt="Captura de Tela 2024-03-14 às 4 28 40 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e1b5216a-bce3-4eb1-afd6-57431c4afbad">
+
+## Permissões
+
+<img width="1840" alt="Captura de Tela 2024-03-14 às 4 38 17 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/dbf94888-b076-4520-bb3d-625efe11feec">
+
