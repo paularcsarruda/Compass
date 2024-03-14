@@ -41,4 +41,17 @@
  
  <img width="1840" alt="Captura de Tela 2024-03-14 às 4 03 58 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/79c3c89b-5cab-4edd-bc88-0051296f2983">
 
+## Crawler
+>
+> É utilizado para realizar a transição dos metadados armazenados no s3 para o aws glue, de modo que posteriormente facilite a visualização dos dados no Data Gatalog do glue.
+>
 
+<img width="1840" alt="Captura de Tela 2024-03-14 às 4 23 02 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/7df3c6c4-6524-4421-bba6-b1b17b1a923e">
+
+>
+> Pesquisa realizada no AWS Athen
+>
+
+<img width="1840" alt="Captura de Tela 2024-03-14 às 4 28 36 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/2967151e-3a7f-492d-876d-b93733589c2d">
+
+<img width="1840" alt="Captura de Tela 2024-03-14 às 4 28 40 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e1b5216a-bce3-4eb1-afd6-57431c4afbad">
