@@ -1,5 +1,13 @@
 ## AWS Glue
 
+### Importações Necessárias
+>
+> Bibliotecas necessárias para trabalhar com o AWS Glue e o Spark.
+> Isso inclui módulos para inicializar o contexto do Spark, carregar dados do S3, realizar operações de DataFrame e definir janelas de análise.
+>
+
+### Exercícios
+
 >- Ler o arquivo nomes.csv no S3 (lembre-se de realizar upload do arquivo antes).
 
 <img width="1840" alt="Captura de Tela 2024-03-13 às 5 28 45 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/db3c23ef-6d77-487b-b8aa-9fa31a68681f">
@@ -26,7 +34,19 @@
  <img width="1840" alt="Captura de Tela 2024-03-13 às 6 35 56 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/0f0bf994-5c2d-4a04-bc55-ef808d155e4e">
 
 >- Apresentar qual foi o nome feminino com mais registros e em que ano ocorreu.
+>- O script abaixo realiza a leitura do arquivo nomes.csv (S3_INPUT_PATH) e retorna o nome feminino com mais registros e o respectivo ano.
+
+ <img width="1840" alt="Captura de Tela 2024-03-14 às 5 28 46 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/5e183981-849a-49b5-96ef-3ebc28208de0">
+
+ <img width="1840" alt="Captura de Tela 2024-03-14 às 5 28 38 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/89ea7a78-8efb-49c0-b717-40e4dc89f2ab">
+
 >- Apresentar qual foi o nome masculino com mais registros e em que ano ocorreu.
+>- O script abaixo realiza a leitura do arquivo nomes.csv (S3_INPUT_PATH) e retorna o nome masculino com mais registros e o respectivo ano.
+
+ <img width="1840" alt="Captura de Tela 2024-03-14 às 5 34 29 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/f004b25e-1b98-4411-a9b8-47e11edafce5">
+ 
+ <img width="1840" alt="Captura de Tela 2024-03-14 às 5 34 19 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e306970a-dde9-4c89-abf7-6efc25226558">
+
 >- Apresentar o total de registros (masculinos e femininos) para cada ano presente no dataframe.Considere apenas as primeiras 10 linhas, ordenadas pelo ano, de forma crescente.
 
  <img width="1840" alt="Captura de Tela 2024-03-13 às 6 46 34 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/0b1a04f1-9038-4392-ade0-bc5c5393d33a">
