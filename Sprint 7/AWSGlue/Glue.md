@@ -65,7 +65,7 @@
 ## Crawler
 >
 > É utilizado para realizar a transição dos metadados armazenados no s3 para o aws glue, de modo que posteriormente facilite a visualização dos dados no Data Gatalog do glue.
->
+> Crawlers são mecanismos que podemos utilizar para monitorar nosso armazenamento de dados demodo a criar/atualizar metadados no catálogo do Glue de forma automática.
 
 <img width="1840" alt="Captura de Tela 2024-03-14 às 4 23 02 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/7df3c6c4-6524-4421-bba6-b1b17b1a923e">
 
@@ -78,6 +78,8 @@
 <img width="1840" alt="Captura de Tela 2024-03-14 às 4 28 40 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e1b5216a-bce3-4eb1-afd6-57431c4afbad">
 
 ## Permissões
+
+> Foi concededido privilégios de DESCRIBE e SELECT no AWS LakeFormation.
 
 <img width="1840" alt="Captura de Tela 2024-03-14 às 4 38 17 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/dbf94888-b076-4520-bb3d-625efe11feec">
 
