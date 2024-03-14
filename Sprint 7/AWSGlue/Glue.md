@@ -1,5 +1,7 @@
 ## AWS Glue
-
+>
+> O AWS Glue é um serviço de integração de dados com tecnologia sem servidor que facilita aos usuários de análise a descoberta, preparação, transferência e integração de dados de várias fontes. Você pode usá-lo para análise, machine learning e desenvolvimento de aplicações.
+>
 ### Importações Necessárias
 >
 > Bibliotecas necessárias para trabalhar com o AWS Glue e o Spark.
