@@ -28,10 +28,9 @@
 >- Apresentar qual foi o nome masculino com mais registros e em que ano ocorreu.
 >- Apresentar o total de registros (masculinos e femininos) para cada ano presente no dataframe.Considere apenas as primeiras 10 linhas, ordenadas pelo ano, de forma crescente.
 
+ <img width="1840" alt="Captura de Tela 2024-03-13 às 6 46 34 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/0b1a04f1-9038-4392-ade0-bc5c5393d33a">
+ 
  <img width="1840" alt="Captura de Tela 2024-03-13 às 6 46 57 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/60aab332-b999-4b06-abe0-1e4bb8efc8e5">
-
- <img width="1840" alt="Captura de Tela 2024-03-13 às 6 46 34 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/0b1a04f1-9038-4392-ade0-bc5c5393d33a">
-
 
 >- Escrever o conteúdo do dataframe com os valores de nome em maiúsculo no S3.
 >  Atenção aos requisitos:
