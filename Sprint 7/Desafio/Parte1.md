@@ -1,6 +1,7 @@
 # Desafio - Parte 1
 ![Static Badge](https://img.shields.io/badge/Tema-Filmes_e_S%C3%A9ries-e0913e)
 ![Static Badge](https://img.shields.io/badge/Categoria-A%C3%A7%C3%A3o_e_Aventura-ffd966)
+
 >
 > Objetivo: criar código Python que carrega arquivos CSV para a Nuvem utilizando as técnicas de ETL.
 >
@@ -24,6 +25,8 @@
 >
 
  <img width="1572" alt="Dockerfile" src="https://github.com/paularcsarruda/Compass/assets/122739036/18550fdf-ea48-4fb7-b78e-137fd1bb8910">
+ 
+ <img width="1837" alt="Captura de Tela 2024-03-16 às 1 24 41 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/881adc5e-6403-4760-bb8e-cfcede1c626a">
 
 ## Carga dos dados no Bucket S3
 
