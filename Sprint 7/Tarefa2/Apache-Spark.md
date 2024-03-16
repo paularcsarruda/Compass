@@ -1,6 +1,7 @@
 # Apache Spark
 >
 > O Apache Spark é um framework de código fonte aberto para computação distribuída. O Spark é um mecanismo de análise unificado para processamento de dados em grande escala com módulos integrados para SQL, streaming, machine learning e processamento de gráficos.
+>
 > O Spark pode ser executado no Apache Hadoop, Apache Mesos, Kubernetes, por conta própria, na nuvem e em diversas fontes de dados.
 >
 ## Passo-a-Passo
