@@ -15,18 +15,15 @@
 
 ### Objetivos da Sprint 7
 >
-> - 
+> - Laboratório AWS Glue
+> - Exercícios Python & Pandas
+> - Exercícios Spark
 >
 ### Entregas da Sprint
 >
 > - Laboratório AWS Glue
 > - Exercícios Udemy
-> - Primeira parte do Desafio
->
-
-#### Laboratórios:
->
-> - Lab Glue
+> - Primeira parte do Desafio AWS
 >
 
 ### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
