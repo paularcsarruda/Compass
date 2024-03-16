@@ -1,6 +1,6 @@
 # Desafio - Parte 1
 ![Static Badge](https://img.shields.io/badge/Tema-Filmes_e_S%C3%A9ries-e0913e)
-![Static Badge](https://img.shields.io/badge/Categoria-A%C3%A7%C3%A3o_e_Aventura-ffd966)
+![Static Badge](https://img.shields.io/badge/Categoria-Drama/Romance-ffd966)
 
 >
 > Objetivo: criar código Python que carrega arquivos CSV para a Nuvem utilizando as técnicas de ETL.
