@@ -95,6 +95,15 @@ Tenho uma mente inquieta por adquirir novos conhecimentos e sou motivada por des
 > - Cursos AWS - Skill Builder
 >
 
+## Sprint 7
+
+- **AWS**
+>
+> - Laboratórios AWS (Glue)
+> - Hadoop
+> - Apache Spark
+>
+
  ## Você pode encontrar as minhas anotações em..
  <div> 
   <a href="https://github.com/paularcsarruda/Compass/tree/main/Caderno" target="_blank"><img width="80" height="80" src="https://github.com/paularcsarruda/Compass/assets/122739036/c133549e-8dc5-46dd-830e-0679abbaebb5" alt="icons8-em-espiral-ligado-livreto-100"/>
