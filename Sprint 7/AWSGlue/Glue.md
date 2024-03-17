@@ -47,9 +47,9 @@
 >- Apresentar qual foi o nome masculino com mais registros e em que ano ocorreu.
 >- O script abaixo realiza a leitura do arquivo nomes.csv (S3_INPUT_PATH) e retorna o nome masculino com mais registros e o respectivo ano.
 
- <img width="1840" alt="Captura de Tela 2024-03-14 às 5 34 29 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/f004b25e-1b98-4411-a9b8-47e11edafce5">
- 
- <img width="1840" alt="Captura de Tela 2024-03-14 às 5 34 19 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e306970a-dde9-4c89-abf7-6efc25226558">
+ <img width="1840" alt="Captura de Tela 2024-03-17 às 8 06 21 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/0cbf2c7f-f8f6-481a-865e-6bb082e517f1">
+
+ <img width="1840" alt="Captura de Tela 2024-03-17 às 8 10 08 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/78ddc371-48f8-41d0-a026-3a771f17cc5c">
 
 >- Apresentar o total de registros (masculinos e femininos) para cada ano presente no dataframe.Considere apenas as primeiras 10 linhas, ordenadas pelo ano, de forma crescente.
 
