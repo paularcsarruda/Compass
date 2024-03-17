@@ -22,7 +22,7 @@
  <img width="1840" alt="Passo 2" src="https://github.com/paularcsarruda/Compass/assets/122739036/19c7bb83-ab61-4fe9-9585-81d20b55342c">
 
 >
-> - Acessar o Jupyter através do link: 
+> - Acessar o Jupyter através do link: http://127.0.0.1:8888/lab?token=f01a6da42aa97feac44bc891264e338a3798f165734db1b1
 >
 
  <img width="1837" alt="Jupyter" src="https://github.com/paularcsarruda/Compass/assets/122739036/99a35f92-076a-4d05-9de5-8f5b024d2010">
