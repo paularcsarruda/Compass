@@ -7,6 +7,8 @@
 ## Passo-a-Passo
 >
 > - Realizar o pull da imagem jupyter/all-spark-notebook
+> 
+> (docker pull jupyter/all-spark-notebook)
 >
 
  <img width="1728" alt="Passo 1" src="https://github.com/paularcsarruda/Compass/assets/122739036/2695bda8-bfd6-4707-adf1-f2fd3b20a158">
@@ -14,11 +16,13 @@
 >
 > - Criar um container a partir da imagem
 >
+> (docker run -it -p 8888:8888 --name spark_container jupyter/all-spark-notebook)
+>
 
  <img width="1840" alt="Passo 2" src="https://github.com/paularcsarruda/Compass/assets/122739036/19c7bb83-ab61-4fe9-9585-81d20b55342c">
 
 >
-> - Acessar o Jupyter
+> - Acessar o Jupyter através do link: 
 >
 
  <img width="1837" alt="Jupyter" src="https://github.com/paularcsarruda/Compass/assets/122739036/99a35f92-076a-4d05-9de5-8f5b024d2010">
