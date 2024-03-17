@@ -11,7 +11,8 @@
 > (docker pull jupyter/all-spark-notebook)
 >
 
- <img width="1728" alt="Passo 1" src="https://github.com/paularcsarruda/Compass/assets/122739036/2695bda8-bfd6-4707-adf1-f2fd3b20a158">
+ <img width="1136" alt="Passo 1" src="https://github.com/paularcsarruda/Compass/assets/122739036/471b17c8-9b3f-4a67-949a-b4272b62a798">
+
 
 >
 > - Criar um container a partir da imagem
@@ -19,30 +20,32 @@
 > (docker run -it -p 8888:8888 --name spark_container jupyter/all-spark-notebook)
 >
 
- <img width="1840" alt="Passo 2" src="https://github.com/paularcsarruda/Compass/assets/122739036/19c7bb83-ab61-4fe9-9585-81d20b55342c">
+ <img width="1382" alt="Captura de Tela 2024-03-17 às 10 25 08 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/5d221245-38c0-4c83-afcb-3bebb18067c8">
+
 
 >
 > - Acessar o Jupyter através do link: http://127.0.0.1:8888/lab?token=f01a6da42aa97feac44bc891264e338a3798f165734db1b1
 >
 
- <img width="1837" alt="Jupyter" src="https://github.com/paularcsarruda/Compass/assets/122739036/99a35f92-076a-4d05-9de5-8f5b024d2010">
+ <img width="1837" alt="Captura de Tela 2024-03-17 às 10 11 27 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/88182276-c319-4544-b557-f3a34b556eeb">
+
 
 >
 > - Em outro terminal, execute o comando `pyspark` no seu container. Pesquise sobre o comando  docker exec para realizar esta ação. Utilize as flags -i e -t no comando.
 >
-
- <img width="1728" alt="Passo 3" src="https://github.com/paularcsarruda/Compass/assets/122739036/b8d7188e-b4b7-4214-9022-2d22f6f883e7">
-
->
 > - Usando o Spark Shell, apresente a sequência de comandos Spark necessários para contar a quantidade de ocorrências de cada palavra contida no arquivo README.md de seu repositório git.
 >
 
-<img width="1728" alt="Python - contador" src="https://github.com/paularcsarruda/Compass/assets/122739036/97a0a977-c42d-478a-8582-2ec69169f255">
+ <img width="1136" alt="Captura de Tela 2024-03-17 às 10 12 38 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/bd495511-782a-4403-8cd2-b4adaa0819c2">
+
 
 ### Resultado
 >
-> Resultado: 580
+> Resultado: 419 palavras
 >
 
- <img width="1728" alt="Resultado" src="https://github.com/paularcsarruda/Compass/assets/122739036/bd78a02c-66ed-4d9a-a479-8358a1543e48">
+ <img width="1837" alt="codigo" src="https://github.com/paularcsarruda/Compass/assets/122739036/9108f5e8-3968-4dfd-87ee-a9fdac401b82">
+
+ <img width="1837" alt="Resultado" src="https://github.com/paularcsarruda/Compass/assets/122739036/211132cc-cfc4-4838-8fb5-53cf01877e37">
+
 
