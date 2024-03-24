@@ -10,8 +10,8 @@
 >
 > A tematica escolhida dentro do tema proposto pelo desafio é analisar *'Como as plataformas streaming impactaram a industria cinematógrafica'*. 
 >
-> Os serviços de streaming têm se popularizado mundialmente nos últimos anos, plataformas como Netflix, Prime Video, HBO, Disney+ etc estão em uma crescente, e, dentro da
-> indústria cinematográfica,existe um debate sobre essas novas formas de consumir conteúdo audiovisual.
+> Os serviços de streaming têm se popularizado mundialmente nos últimos anos, plataformas como Netflix, Prime Video, HBO, Disney+ etc estão em uma crescente, e dentro da
+> indústria cinematográfica existe um debate sobre essas novas formas de consumir conteúdo audiovisual.
 >
 > As plataformas de streaming estão tendo um impacto significativo na indústria cinematográfica. À medida que mais e mais espectadores optam por assistir a filmes em
 > plataformas de streaming, as empresas de cinema estão tendo que se adaptar para sobreviver.
