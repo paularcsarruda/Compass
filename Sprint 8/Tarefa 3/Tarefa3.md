@@ -20,7 +20,7 @@ Passo 1:  Instalar biblioteca names para geração de nomes aleatórios. O coman
  <img width="1837" alt="pip nomes" src="https://github.com/paularcsarruda/Compass/assets/122739036/7c9d9c51-529a-4e4f-9d6e-d4866d97e4f1">
 
 
-Passo 2 Importar as bibliotecas random, time, os e names em seu código
+Passo 2: Importar as bibliotecas random, time, os e names em seu código
 Passo 3: Definir os parâmetros para geração do dataset, ou seja, a quantidades de nomes aleatórios e a quantidade de nomes que devem ser únicos.
 
  <img width="1837" alt="nomespy" src="https://github.com/paularcsarruda/Compass/assets/122739036/20b94c0d-04f5-4d9b-9ddb-f2c2ba7857fd">
