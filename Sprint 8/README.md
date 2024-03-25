@@ -15,11 +15,19 @@
 
 ### Objetivos da Sprint 8
 >
-> -
+> - TMDB
+> - Ingestão de Dados TMDB
+> - AWS Lambda
+> - Apache-Spark
+> - Geração de Massa de Dados
 >
 ### Entregas da Sprint
 >
-> - 
+> - Descritivo do Desafio (até 25.03.2024)
+> - Tarefa 1
+> - Tarefa 2 - 2.º parte do Desafio
+> - Tarefa 3
+> - Tarefa 4
 >
 
 ### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
