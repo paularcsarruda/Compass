@@ -24,5 +24,7 @@
 > 2. Como as plataformas afetaram o consumo de produções audiovisuais?
 > 3. A arrecadação da indústria cinematográfica foi afetada com a chegada das plataformas *on Demand*?
 > 4. Houve mudança no hábito das pessoas em ir ao cinema?
+> 5. Os investimentos nas produções cinematógraficas dimuniram ao longo dos anos?
+> 6. Houve diminuição na produção de filmes para o cinema?
 >
 
