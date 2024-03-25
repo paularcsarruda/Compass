@@ -21,7 +21,7 @@
 ### Qual a pergunta a análise pretende responder?
 >
 > Os usos das tecnologias advindas de plataformas de Subscription Video on Demand (“vídeo sob demanda por assinatura”, em tradução livre) afetaram a indústria
-> cinematógrafica.
+> cinematógrafica? e como a indústria foi afetada?
 >
 > 1. De que forma a indústria foi afetada e como a popularização das plataformas de streaming?
 > 2. Como as plataformas afetaram o consumo de produções audiovisuais?
