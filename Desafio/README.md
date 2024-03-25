@@ -4,7 +4,7 @@
 
 </div>
 
-# Data & Analytics - PB - AWS 1/10
+# Data & Analytics - PB - AWS 
 
 > Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />! 
 > 
