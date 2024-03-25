@@ -1,4 +1,7 @@
-![Compass.Uol](https://blog-qa.compass.uol/wp-content/uploads/2021/09/avatar_user_1_1632859146-96x96.png)
+<p align="center">
+<img width="390" height="53" src="https://compasso.ninja/interno/images/CompassoUOL_Positivo_2021.png">
+</p>
+
 
 # Desafio Final | Compass UOL
 
