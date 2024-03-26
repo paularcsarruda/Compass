@@ -1,6 +1,6 @@
-
-![090cd686313abeb4bf4912b37dbeaac6](https://github.com/paularcsarruda/Compass/assets/122739036/0c699dac-1eb1-4cf4-af48-a10f8aad3e96)
-
+<p align="center">
+<img src="https://github.com/paularcsarruda/Compass/assets/122739036/0c699dac-1eb1-4cf4-af48-a10f8aad3e96" alt="twilight" />
+</ p>
 
 
 # Desafio Final | Compass UOL
