@@ -13,6 +13,13 @@
 >
 > Será realizada a análise dos dados dos cinco filmes da Saga Crepúsculo ('The Twilight Saga), os seus faturamentos, orçamentos, popularidade de cada um dos filmes da saga, além da análise dos salários dos atores e suas respectivas premiações.
 >
+> Saga Crepúsculo:
+>  - Crepúsculo
+>  - Lua Nova
+>  - Eclipse
+>  - Amanhecer - parte 1
+>  - Amanhecer - parte 2
+>
 
 ### EndPoints
 >
