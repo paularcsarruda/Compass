@@ -11,7 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Categoria-Drama_e_Romance-ffd966)
 
 >
-> Será realizada a análise dos dados dos cinco filmes da Saga Crepúsculo ('The Twilight Saga), os seus faturamentos, orçamentos, popularidade de cada um dos filmes da saga, além da análise dos salários dos atores e suas respectivas premiações.
+> Será realizada a análise dos dados dos cinco filmes da Saga Crepúsculo ('The Twilight Saga): seus faturamentos, orçamentos, popularidade de cada um dos filmes da saga, além da análise dos salários dos atores e suas respectivas premiações.
 >
 > Saga Crepúsculo:
 >  - Crepúsculo
