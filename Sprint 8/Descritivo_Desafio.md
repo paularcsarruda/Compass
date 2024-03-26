@@ -28,10 +28,13 @@
 > - Credits Details: https://api.themoviedb.org/3/movie/{movie_id}/credits
 >   
 
-### Quais dados serão analisados
+### Quais dados planejo analisar
 >
 > - Popularidade de cada filme
 > - Orçamento de cada filme
 > - Faturamento de cada filme
+> - Popularidade dos atores principais
+> - Salário dos atores principais
+> - Awards recebidos
 >   
 
