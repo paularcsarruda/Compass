@@ -23,10 +23,9 @@
 
 ### Quais dados serão analisados
 >
-> - Popularidade
-> - Orçamento
-> - Faturamento
-> - Premiações
-> - Salários
+> - Popularidade de cada filme
+> - Orçamento de cada filme
+> - Faturamento de cada filme
+> - Popularidade dos três principais atores
 >   
 
