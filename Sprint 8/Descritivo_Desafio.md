@@ -1,6 +1,6 @@
-<p align="center">
-<img width="390" height="53" src="https://compasso.ninja/interno/images/CompassoUOL_Positivo_2021.png">
-</p>
+
+![090cd686313abeb4bf4912b37dbeaac6](https://github.com/paularcsarruda/Compass/assets/122739036/0c699dac-1eb1-4cf4-af48-a10f8aad3e96)
+
 
 
 # Desafio Final | Compass UOL
@@ -11,23 +11,22 @@
 ![Static Badge](https://img.shields.io/badge/Categoria-Drama_e_Romance-ffd966)
 
 >
-> A tematica escolhida dentro do tema proposto pelo desafio final é analisar *'Como as plataformas streaming impactaram a industria cinematógrafica'*. 
->
-> Os serviços de streaming têm se popularizado mundialmente nos últimos anos, plataformas como Netflix, Prime Video, HBO, Disney+ etc estão em uma crescente, e dentro da
-> indústria cinematográfica existe um debate sobre essas novas formas de consumir conteúdo audiovisual a medida que mais e mais espectadores optam por assistir a filmes em
-> plataformas de streaming.
+> Será realizada a análise dos dados dos cinco filmes da Saga Crepúsculo ('The Twilight Saga), os seus faturamentos, orçamentos, popularidade de cada um dos filmes da saga, além da análise dos salários dos atores e suas respectivas premiações.
 >
 
-### Qual a pergunta a análise pretende responder?
+### EndPoints
 >
-> Os usos das tecnologias advindas de plataformas de Subscription Video on Demand (“vídeo sob demanda por assinatura”, em tradução livre) afetaram a indústria
-> cinematógrafica? e como a indústria foi afetada?
+> - Person Details: https://api.themoviedb.org/3/person/{person_id}
+> - Movie Details: https://api.themoviedb.org/3/movie/{movie_id}
+> - Credits Details: https://api.themoviedb.org/3/movie/{movie_id}/credits
+>   
+
+### Quais dados serão analisados
 >
-> 1. De que forma a indústria foi afetada e como a popularização das plataformas de streaming?
-> 2. Como as plataformas afetaram o consumo de produções audiovisuais?
-> 3. A arrecadação da indústria cinematográfica foi afetada com a chegada das plataformas *on Demand*?
-> 4. Houve mudança no hábito das pessoas em ir ao cinema?
-> 5. Os investimentos nas produções cinematógraficas dimuniram ao longo dos anos?
-> 6. Houve diminuição na produção de filmes para o cinema?
->
+> - Popularidade
+> - Orçamento
+> - Faturamento
+> - Premiações
+> - Salários
+>   
 
