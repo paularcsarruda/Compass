@@ -29,8 +29,8 @@
 
 3. Utilização do Amazon EventBridge para agendar extrações periódicas de dados no TMBD via Lambda de forma automática.
 >
-> - O cronograma *auto_lambda_desafio* foi criado utilizando o EventBridge - scheduler, com agendamentos períodicos sempre às 10h do 1.º dia de cada mês durante
-> todo o ano de 2024.
+> - O cronograma *auto_lambda_desafio* foi criado utilizando o EventBridge - scheduler, com agendamentos períodicos sempre no 1.º > dia de cada mês às 10h e durante todo o ano de 2024.
+>   
  
  <img width="1837" alt="gatilho 1" src="https://github.com/paularcsarruda/Compass/assets/122739036/135a4799-1f7d-4dbf-bcda-3e27e440cb48">
  
