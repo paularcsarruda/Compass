@@ -1,5 +1,8 @@
 # Desafio - Parte 2
 
+![Static Badge](https://img.shields.io/badge/Tema-Filmes_e_S%C3%A9ries-e0913e)
+![Static Badge](https://img.shields.io/badge/Categoria-Drama_e_Romance-ffd966)
+
 1.  Criar nova camada (layer) no AWS Lambda para as libs necessárias à ingestão de dados.
 >
 > - criação da função *myFunctionDesafio*
