@@ -45,8 +45,10 @@
       - Millennials (Geração Y) – nascidos entre 1980 e 1994;
       - Geração Z – nascidos entre 1995 e 2015.
 
-   <img width="1837" alt="Captura de Tela 2024-03-28 às 4 00 46 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/ec8824f1-4590-45a0-b2b7-8642aaad9dec">
+   <img width="1837" alt="Captura de Tela 2024-03-28 às 4 11 49 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/0f8a9caa-a544-443c-83ca-de5717f0c153">
 
-   <img width="1837" alt="Captura de Tela 2024-03-28 às 4 00 42 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/aa614108-db64-46f3-9677-4c35046aafdc">
+   <img width="1837" alt="Captura de Tela 2024-03-28 às 4 11 44 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/36b9c013-6f2b-4f3a-b11d-3598a9f3e880">
+
+
 
 
