@@ -14,7 +14,7 @@
 >   
 > - Buscar, pela API, os dados que complementem a análise
 > - Utilizar a lib boto3 para gravar os dados no AWS S3, em arquivos JSON, com 100 registros em cada arquivo.
-> - Criação das variáveis de ambiente 
+> - Criação das variáveis de ambiente para proteger as chaves da API e da AWS
 >
 
  <img width="1837" alt="Captura de Tela 2024-03-25 às 9 47 06 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/f0992908-fb8b-480e-a1ab-6109814b2235">
@@ -29,7 +29,7 @@
 
 3. Utilização do Amazon EventBridge para agendar extrações periódicas de dados no TMBD via Lambda de forma automática.
 >
-> - O cronograma *auto_lambda_desafio* foi criado utilizando o EventBridge - scheduler, com agendamentos períodicos sempre no 1.º > dia de cada mês às 10h e durante todo o ano de 2024.
+> - O cronograma *auto_lambda_desafio* foi criado utilizando o EventBridge - scheduler, com agendamentos períodicos sempre no 1.º dia de cada mês às 10h e durante todo o ano de 2024.
 >   
  
  <img width="1837" alt="gatilho 1" src="https://github.com/paularcsarruda/Compass/assets/122739036/135a4799-1f7d-4dbf-bcda-3e27e440cb48">
