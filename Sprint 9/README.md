@@ -13,12 +13,13 @@
 > 
 > 👩🏻‍💻
 
-### Objetivos da Sprint 9
->
->
 ### Entregas da Sprint
 >
->
+> Tarefa 1 ( Modelagem Relacional - Normatização )
+> Tarefa 2 ( Modelagem Dimensional )
+> Tarefa 3 - Desafio parte 1 ( Camada Trusted )
+> Tarefa 4 - Desafio parte 2 ( Modelagem dos Dados )
+> Tarefa 5 - Desafio parte 3 ( Camada Refined )
 
 ### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
  <div> 
