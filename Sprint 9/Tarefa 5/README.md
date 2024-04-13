@@ -13,7 +13,7 @@
 <img width="1837" alt="Captura de Tela 2024-04-13 às 7 04 46 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/22225549-2c2c-4573-8090-12e051fd1152">
 
 >
-> Processamento dos dados no AWS Glue.
+> Processamento dos dados no AWS Glue, utilizando o *Spark Scriprt Editor* com as configurações solicitadas na atividade.
 >
 
 <img width="1837" alt="Captura de Tela 2024-04-13 às 7 03 15 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e0c6e72f-f4aa-4af3-acbf-570ccddd410e">
