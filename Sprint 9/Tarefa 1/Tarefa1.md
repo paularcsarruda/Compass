@@ -4,12 +4,12 @@
 > Para normalizar a tabela "tb_locacao", podemos identificar as dependências funcionais presentes e dividir
 a tabela em várias tabelas menores, evitando a redundância de dados e melhorando a estrutura do banco de
 dados. Aqui está uma proposta de normalização para essa tabela:
-
-1ª Forma Normal (1NF):
+>
+> 1ª Forma Normal (1NF):
 Vamos garantir que cada coluna contenha apenas valores atômicos e não repetidos. Nenhuma mudança é 
 necessária para atingir a 1ª Forma Normal, pois a tabela já possui valores atômicos em suas colunas.
-
-2ª Forma Normal (2NF):
+>
+> 2ª Forma Normal (2NF):
 Para atingir a 2ª Forma Normal, devemos garantir que todas as colunas não-chave sejam totalmente 
 dependentes da chave primária. Podemos dividir a tabela em três novas tabelas: "tb_locacao", "tb_cliente"
 e "tb_carro".
