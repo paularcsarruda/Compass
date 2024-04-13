@@ -16,7 +16,7 @@
 >
 > Foi desenvolvido o código para converter os arquivos JSON da pasta RAW (CSV e TMDB) para PARQUET, após o que foi carregado para pasta *Trusted*.
 >
-> Os doiss Job's no AWS Glue, foram desenvolvidos utilizando o Spark script editor.
+> Os dois Job's do AWS Glue, foram desenvolvidos utilizando o Spark script editor.
 >
 
 <img width="1837" alt="Captura de Tela 2024-04-13 às 6 49 25 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/56d1dd7d-7a88-4f17-a430-ea2b7984a391">
