@@ -3,7 +3,7 @@
 >
 > Na tarefa 4, foi ralizada a modelagem dos dados para o tema do desafio final.
 >
-> Foram criadas tabelas no AWS Glue, resultando nas seguintes tabelas: "trustedcsv" e "trustedtmdb".
+> Foram criadas tabelas no AWS Glue, resultando nas seguintes tabelas: *trustedcsv* e *trustedtmdb*.
 >
 > Aqui está a print das duas tabelas:
 >
@@ -15,7 +15,7 @@
 <img width="1837" alt="Captura de Tela 2024-04-13 às 7 00 10 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/87596d37-8a10-48ea-9cef-2b849644a3ed">
 
 >
-> Posteriormente foram criadas as tabelas e o diagrama dimensional no DBeaver.
+> Posteriormente, foram criadas as tabelas na linguagem SQL e o diagrama dimensional na ferramenta de administração de banco de dados - DBeaver.
 >
 
 <img width="1840" alt="Captura de Tela 2024-04-14 às 10 09 10 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/3cd33fa4-8f96-4562-9353-70774310ce48">
