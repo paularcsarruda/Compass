@@ -8,8 +8,9 @@
 
 > Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />! 
 > 
-> Neste arquivo você vai encontrar as entregas e os conteúdos estudados na Sprint 9. 
+> Neste arquivo você vai encontrar as entregas e os conteúdos estudados na Sprint 9.
 > 
+>  OBS.: Maicon, na segunda e terceira parte do desafio, incluí as informações de uma API da OMDB. Este trabalho será desenvolvido nas próximas semanas durante a Sprint 10. Descobri essa API no sábado à tarde e, como precisarei fazer algumas modificações, não teria tempo suficiente para concluir tudo novamente.
 > 
 > 👩🏻‍💻
 
