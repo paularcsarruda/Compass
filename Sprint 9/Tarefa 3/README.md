@@ -2,6 +2,8 @@
 
 ## Processamento da Trusted
 
+OBS.:Maicon, na segunda e terceira parte do desafio, incluí as informações de uma API da OMDB. Este trabalho será desenvolvido nas próximas semanas durante a Sprint 10. Descobri essa API no sábado à tarde e, como precisarei fazer algumas modificações, não teria tempo suficiente para concluir tudo novamente.
+
 >
 > O objetivo da tarefa 3 era criar a camada *Trusted*, a partir do arquivo gerado na sprint anterior.
 >
