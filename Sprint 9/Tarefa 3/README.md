@@ -26,3 +26,11 @@
 <img width="1837" alt="Captura de Tela 2024-04-13 às 6 49 07 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/f135e519-b7ad-4e90-8952-54e0109a0bee">
 
 <img width="1837" alt="Captura de Tela 2024-04-13 às 6 49 11 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/78b10fb1-0d6c-441d-a9ab-403d78d5eba0">
+
+>
+> Consultas SQL realizadas no AWS S3, nos buckets *trustedcvs* e *trustedtmdb*
+>
+
+<img width="1837" alt="Captura de Tela 2024-04-14 às 10 19 53 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/821f3767-2355-4db1-99c1-f4dc154a3ad7">
+ 
+<img width="1837" alt="Captura de Tela 2024-04-14 às 10 20 10 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/146ba5d8-0ec5-4a5b-9dfe-6aaf247d68dc">
