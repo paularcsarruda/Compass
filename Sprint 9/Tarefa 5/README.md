@@ -15,6 +15,9 @@
 >
 > Processamento dos dados no AWS Glue, utilizando o *Spark Scriprt Editor* com as configurações solicitadas na atividade.
 >
+> - Foi desenvolvido o código para selecionar as colunas de dados relevantes e filtrar apenas os filmes que vou ultilizar do CSV.
+> - Os dados foram carregados no formato parquet para a pasta *refined* do bucket desafioaws.
+>   
 
 <img width="1837" alt="Captura de Tela 2024-04-13 às 7 03 15 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/e0c6e72f-f4aa-4af3-acbf-570ccddd410e">
 
