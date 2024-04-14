@@ -6,9 +6,7 @@ OBS.:Maicon, na segunda e terceira parte do desafio, incluí as informações de
 
 
 >
-> O objetivo da tarefa 3 era criar a camada *Trusted*, a partir do arquivo gerado na sprint anterior.
->
-> O arquivo resultante dessas duas etapas foi salvo na camada *Trusted* do AWS S3.
+> O objetivo da tarefa 3 era criar a camada *Trusted*, a partir do arquivo gerado na sprint anterior. O arquivo resultante dessas duas etapas foi salvo na camada *Trusted* do AWS S3.
 >
 
 <img width="1837" alt="Captura de Tela 2024-04-13 às 6 49 43 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/52329ac6-63ca-42d2-b897-db4fdec284fb">
