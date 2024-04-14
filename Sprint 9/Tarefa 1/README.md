@@ -1,5 +1,7 @@
 # Tarefa1
 
+## Modelagem Relacional - Normatização
+
 >
 > Para normalizar a tabela "tb_locacao", podemos identificar as dependências funcionais presentes e dividir
 a tabela em várias tabelas menores, evitando a redundância de dados e melhorando a estrutura do banco de
