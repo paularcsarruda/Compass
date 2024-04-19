@@ -23,8 +23,7 @@
 
 ### Quais dados planejo analisar
 >
-> - Popularidade de cada filme
-> - Orçamento de cada filme
-> - Faturamento de cada filme
 > - Popularidade 
-
+> - Orçamento 
+> - Faturamento 
+>
