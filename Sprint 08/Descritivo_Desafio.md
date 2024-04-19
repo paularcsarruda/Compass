@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/paularcsarruda/Compass/assets/122739036/0c699dac-1eb1-4cf4-af48-a10f8aad3e96" alt="twilight" />
+<img src="https://i0.wp.com/www.dosedeilusao.com/wp-content/uploads/2017/09/filme-bonequinha-de-luxo.gif?resize=650%2C350" alt="bonequinha" />
 </ p>
 
 
@@ -11,14 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Categoria-Drama_e_Romance-ffd966)
 
 >
-> Será realizada a análise dos dados dos cinco filmes da Saga Crepúsculo (*'The Twilight Saga'*): seus faturamentos, orçamentos, popularidade de cada um dos filmes da saga.
->
-> Saga Crepúsculo:
->  - Crepúsculo
->  - Lua Nova
->  - Eclipse
->  - Amanhecer - parte 1
->  - Amanhecer - parte 2
+> Será realizada a análise dos dados dos filmes estrelados por Audrey Hepburn: seus faturamentos, orçamentos e popularidade.
 >
 
 ### EndPoints
@@ -33,8 +26,5 @@
 > - Popularidade de cada filme
 > - Orçamento de cada filme
 > - Faturamento de cada filme
-> - Popularidade dos atores principais
-> - Salário dos atores principais
-> - Awards recebidos
->   
+> - Popularidade 
 
