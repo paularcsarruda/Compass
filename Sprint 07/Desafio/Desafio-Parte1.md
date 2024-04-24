@@ -14,7 +14,7 @@
 >
 > 1. Implementar código Python:
 > Utilizar a lib boto3 para carregar os dados para a AWS
-> acessar a AWS e grava no S3, no bucket definido com RAW Zone
+> acessar a AWS e gravar no S3, no bucket definido com RAW Zone
 >
 
  <img width="1837" alt="Codigo-Python" src="https://github.com/paularcsarruda/Compass/assets/122739036/3f081696-4193-4fa1-a080-2d840f7c6138">
