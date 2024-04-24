@@ -18,7 +18,7 @@
 >
 > - Person Details: https://api.themoviedb.org/3/person/{person_id}
 > - Movie Details: https://api.themoviedb.org/3/movie/{movie_id}
-> - Credits Details: https://api.themoviedb.org/3/movie/{movie_id}/credits
+> - Discover: https://api.themoviedb.org/3/discover/movie
 >   
 
 ### Quais dados planejo analisar
