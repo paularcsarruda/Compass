@@ -5,7 +5,7 @@
 >
 > Objetivo: criar código Python que carrega arquivos CSV para a Nuvem utilizando as técnicas de ETL.
 >
-> Ingestão Batch: a ingestão dos arquivos CSV em Bucket Amazon S3 RAW Zone. Nesta etapa do desafio deve ser construído um código Python que será executado dentro de um container Docker para carregar os dados locais dos arquivos para a nuvem. Nesse caso utilizaremos, principalmente, as lib boto3 como parte do processo de ingestão via batch para geração de arquivo (CSV).
+> Ingestão Batch: a ingestão dos arquivos CSV em Bucket Amazon S3 RAW Zone. Nesta etapa do desafio deve ser construído um código Python que será executado dentro de um container Docker para carregar os dados locais dos arquivos para a nuvem. Nesse caso utilizaremos, principalmente, a lib boto3 como parte do processo de ingestão via batch para geração de arquivo (CSV).
 >
 >Ler os 2 arquivos (filmes e series) no formato CSV inteiros, ou seja, sem filtrar os dados.
 >
