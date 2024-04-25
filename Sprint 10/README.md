@@ -7,15 +7,17 @@
 # Data & Analytics - PB - AWS 10/10
 
 > Olá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />! 
-> 
+>
 > Neste arquivo você vai encontrar as entregas e os conteúdos estudados na Sprint 10.
+> 
+> P.S.: Guilherme, gostaria de deixar aqui meu agradecimento por todo o apoio. Você foi ótimo!
 > 
 > 👩🏻‍💻
 
 ### Entregas da Sprint
 >
 > - AWS QuickSight
-> - Desafio Final
+> - Desafio Final - vídeo de apresentação
 >
 
 ### Você pode encontrar minhas anotações no ícone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />...
