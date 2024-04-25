@@ -20,9 +20,7 @@
 > - Criação das variáveis de ambiente para proteger as chaves da API e da AWS
 >
 
- <img width="1837" alt="Captura de Tela 2024-03-25 às 9 47 06 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/f0992908-fb8b-480e-a1ab-6109814b2235">
-
- <img width="1840" alt="Captura de Tela 2024-03-27 às 11 39 47 AM" src="https://github.com/paularcsarruda/Compass/assets/122739036/6f058062-56d2-43b5-84d9-fa026ad41b4f">
+ <img width="1837" alt="Captura de Tela 2024-04-25 às 6 44 58 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/c85e51c1-13f4-4c9c-b131-0df43abb15f9">
 
  <img width="1840" alt="ingestao de dados" src="https://github.com/paularcsarruda/Compass/assets/122739036/b29c0467-bd12-429d-9b0a-2665bf2a346a">
 
