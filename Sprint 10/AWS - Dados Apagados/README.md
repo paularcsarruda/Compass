@@ -10,3 +10,5 @@
 <img width="1840" alt="Captura de Tela 2024-04-26 às 1 53 21 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/09aca2c3-4e3d-42b0-abfb-f748005f350b">
 
 <img width="1840" alt="Captura de Tela 2024-04-26 às 1 52 43 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/47d712b2-fb83-4eed-8baa-eca3442c2be5">
+
+<img width="1840" alt="Captura de Tela 2024-04-26 às 2 40 00 PM" src="https://github.com/paularcsarruda/Compass/assets/122739036/85e094e3-3389-4b48-afe9-78c36903ff20">
