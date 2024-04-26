@@ -10,7 +10,8 @@
 >
 > Neste arquivo você vai encontrar as entregas e os conteúdos estudados na Sprint 10.
 > 
-> P.S.: Guilherme, gostaria de deixar aqui meu agradecimento por todo o apoio. Você foi ótimo!
+> P.S.: Guilherme,
+>       gostaria de deixar aqui meu agradecimento por todo o apoio. Você foi ótimo!
 > 
 > 👩🏻‍💻
 
