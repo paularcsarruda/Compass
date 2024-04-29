@@ -10,7 +10,6 @@
 > 
 > Neste arquivo você vai encontrar as entregas e os conteúdos estudados na Sprint 9.
 > 
->  OBS.: Maicon, na segunda do desafio ( Modelagem Dimensional ), incluí as informações de uma API da OMDB. Este trabalho será desenvolvido nas próximas semanas durante a Sprint 10. Descobri essa API no sábado à tarde e, como precisarei fazer algumas modificações, não teria tempo suficiente para concluir tudo novamente.
 > 
 > 👩🏻‍💻
 
