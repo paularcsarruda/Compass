@@ -12,7 +12,7 @@
 
 >
 > Será realizada a análise dos dados dos filmes estrelados por Audrey Hepburn: seus faturamentos, orçamentos e popularidade.
->
+> P.S.: O tema do Desafio originalmente era a Saga Twilight e foi modificado para os filmes da Audrey Hepburn.
 
 ### EndPoints
 >
