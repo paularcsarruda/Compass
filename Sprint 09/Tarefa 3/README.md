@@ -2,9 +2,6 @@
 
 ## Processamento da Trusted
 
-OBS.: Maicon, na segunda do desafio ( Modelagem Dimensional ), incluí as informações de uma API da OMDB. Este trabalho será desenvolvido nas próximas semanas durante a Sprint 10. Descobri essa API no sábado à tarde e, como precisarei fazer algumas modificações, não teria tempo suficiente para concluir tudo novamente.
-
-
 >
 > O objetivo da tarefa 3 era criar a camada *Trusted*, a partir do arquivo gerado na sprint anterior. O arquivo resultante dessas duas etapas foi salvo na camada *Trusted* do AWS S3.
 >
